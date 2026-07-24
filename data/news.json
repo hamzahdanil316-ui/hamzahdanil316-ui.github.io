@@ -1,11 +1,437 @@
 {
-  "updatedAt": "2026-07-24T00:00:00.000Z",
+  "updatedAt": "2026-07-24T06:12:52.236Z",
   "categories": {
-    "nasional": [],
-    "ekonomi": [],
-    "olahraga": [],
-    "teknologi": [],
-    "hiburan": [],
-    "dunia": []
+    "nasional": [
+      {
+        "title": "PKB beri penghargaan kepada lima kiai berdedikasi kembangkan dakwah",
+        "link": "https://www.antaranews.com/berita/5663967/pkb-beri-penghargaan-kepada-lima-kiai-berdedikasi-kembangkan-dakwah",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Partai Kebangkitan Bangsa (PKB) memberikan penghargaan kepada lima kiai yang dinilai berdedikasi dalam mengembangkan ...",
+        "published": "2026-07-24T06:10:43.000Z"
+      },
+      {
+        "title": "IKJ libatkan warga empat kelurahan dalam Festival Kali Pasir 2026",
+        "link": "https://www.antaranews.com/berita/5663965/ikj-libatkan-warga-empat-kelurahan-dalam-festival-kali-pasir-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Institut Kesenian Jakarta (IKJ) melibatkan masyarakat dari empat kelurahan di sekitar kampus dalam penyelenggaraan ...",
+        "published": "2026-07-24T06:09:09.000Z"
+      },
+      {
+        "title": "KRI GNR-332 sampai di Rusia siap jalankan Orruda 2026",
+        "link": "https://www.antaranews.com/berita/5663964/kri-gnr-332-sampai-di-rusia-siap-jalankan-orruda-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "332 sampai di Vladivostok, Rusia, Kamis (23/7).\n\nDalam siaran pers resmi yang TNI AL yang diterima di Jakarta, Jumat, ...",
+        "published": "2026-07-24T06:08:46.000Z"
+      },
+      {
+        "title": "Komisi I: Pembelian 12 jet tempur Italia bagian modernisasi pertahanan",
+        "link": "https://www.antaranews.com/berita/5663960/komisi-i-pembelian-12-jet-tempur-italia-bagian-modernisasi-pertahanan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Wakil Ketua Komisi I DPR RI Dave Laksono menilai bahwa pembelian 12 pesawat jet latih tempur M-346 dari Italia sebagai ...",
+        "published": "2026-07-24T06:06:35.000Z"
+      },
+      {
+        "title": "Jaksa Agung lantik Wakil JA hingga Jampidsus baru",
+        "link": "https://www.antaranews.com/berita/5663959/jaksa-agung-lantik-wakil-ja-hingga-jampidsus-baru",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Jaksa Agung ST Burhanuddin melantik beberapa pejabat utama Kejaksaan Agung, mulai dari Wakil Jaksa Agung hingga Jaksa ...",
+        "published": "2026-07-24T06:03:49.000Z"
+      },
+      {
+        "title": "DKI tegaskan komitmen ciptakan lingkungan sekolah aman bagi anak",
+        "link": "https://www.antaranews.com/berita/5663951/dki-tegaskan-komitmen-ciptakan-lingkungan-sekolah-aman-bagi-anak",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Dinas Pemberdayaan, Perlindungan Anak, dan Pengendalian Penduduk (PPAPP) dan Dinas Pendidikan Provinsi DKI Jakarta ...",
+        "published": "2026-07-24T06:02:09.000Z"
+      },
+      {
+        "title": "Polda Jabar siagakan 1.500 personel gabungan amankan Piala Presiden",
+        "link": "https://www.antaranews.com/berita/5663948/polda-jabar-siagakan-1500-personel-gabungan-amankan-piala-presiden",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kepolisian Daerah (Polda) Jawa Barat menyiagakan sekitar 1.500 personel gabungan untuk mengamankan penyelenggaraan ...",
+        "published": "2026-07-24T06:01:42.000Z"
+      },
+      {
+        "title": "Pertemuan menteri APEC adopsi pernyataan Chengdu tentang teknologi AI",
+        "link": "https://www.antaranews.com/berita/5663944/pertemuan-menteri-apec-adopsi-pernyataan-chengdu-tentang-teknologi-ai",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pertemuan Tingkat Menteri Digital dan AI APEC (APEC Digital and AI Ministerial Meeting) 2026 mengadopsi sebuah ...",
+        "published": "2026-07-24T06:00:16.000Z"
+      },
+      {
+        "title": "Menko Polkam minta aparat dan masyarakat bersatu berantas narkotika",
+        "link": "https://www.antaranews.com/berita/5663943/menko-polkam-minta-aparat-dan-masyarakat-bersatu-berantas-narkotika",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Djamari Chaniago meminta seluruh pihak termasuk ...",
+        "published": "2026-07-24T05:58:01.000Z"
+      },
+      {
+        "title": "Presiden tetapkan lima pimpinan tinggi madya Kejagung yang baru",
+        "link": "https://www.antaranews.com/foto/5663940/presiden-tetapkan-lima-pimpinan-tinggi-madya-kejagung-yang-baru",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pejabat baru di lingkungan Kejaksaan Agung (Kejagung), yakni Wakil Jaksa Agung Asep Nana Mulyana (kiri), Jaksa Agung ...",
+        "published": "2026-07-24T05:56:16.000Z"
+      }
+    ],
+    "ekonomi": [
+      {
+        "title": "6 rekomendasi sepeda listrik terbaik 2026, irit dan cocok untuk harian",
+        "link": "https://otomotif.antaranews.com/berita/5663681/6-rekomendasi-sepeda-listrik-terbaik-2026-irit-dan-cocok-untuk-harian",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Sepeda listrik semakin menjadi pilihan masyarakat sebagai sarana mobilitas harian karena menawarkan efisiensi, biaya ...",
+        "published": "2026-07-24T01:47:54.000Z"
+      },
+      {
+        "title": "6 rekomendasi motor listrik stylish 2026, desain modern, fitur canggih",
+        "link": "https://otomotif.antaranews.com/berita/5663587/6-rekomendasi-motor-listrik-stylish-2026-desain-modern-fitur-canggih",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Motor listrik semakin diminati masyarakat Indonesia karena menawarkan desain modern, biaya operasional yang lebih ...",
+        "published": "2026-07-23T22:59:53.000Z"
+      },
+      {
+        "title": "8 penyebab vespa matic brebet saat digas, kadang tidak disadari",
+        "link": "https://otomotif.antaranews.com/berita/5661915/8-penyebab-vespa-matic-brebet-saat-digas-kadang-tidak-disadari",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Vespa matic menjadi salah satu skuter yang cukup populer di Indonesia, terutama di kalangan anak muda. Selain ...",
+        "published": "2026-07-23T02:09:53.000Z"
+      },
+      {
+        "title": "Benarkah bensin RON tinggi lebih irit? Ini penjelasan sesuai mesin",
+        "link": "https://otomotif.antaranews.com/berita/5661875/benarkah-bensin-ron-tinggi-lebih-irit-ini-penjelasan-sesuai-mesin",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Banyak pemilik kendaraan beranggapan bahwa menggunakan bensin dengan angka oktan atau Research Octane Number (RON) yang ...",
+        "published": "2026-07-23T01:46:46.000Z"
+      },
+      {
+        "title": "Apa yang terjadi jika salah isi BBM? Ini dampaknya pada mesin mobil",
+        "link": "https://otomotif.antaranews.com/berita/5661857/apa-yang-terjadi-jika-salah-isi-bbm-ini-dampaknya-pada-mesin-mobil",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Kesalahan mengisi bahan bakar kendaraan masih menjadi masalah yang kerap dialami sebagian pengendara, terutama saat ...",
+        "published": "2026-07-23T01:39:36.000Z"
+      },
+      {
+        "title": "Biaya hidup di Jakarta 2026: Berapa pengeluaran lajang dan keluarga?",
+        "link": "https://www.antaranews.com/berita/5661819/biaya-hidup-di-jakarta-2026-berapa-pengeluaran-lajang-dan-keluarga",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Biaya hidup di Jakarta pada 2026 masih menjadi perhatian bagi pekerja lajang maupun keluarga karena tingginya kebutuhan ...",
+        "published": "2026-07-23T01:18:51.000Z"
+      },
+      {
+        "title": "8 tanda CVT motor matic Anda sudah harus diservis",
+        "link": "https://otomotif.antaranews.com/berita/5661103/8-tanda-cvt-motor-matic-anda-sudah-harus-diservis",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Perawatan rutin menjadi salah satu kunci untuk menjaga performa motor matic tetap optimal. Selain mengganti oli mesin ...",
+        "published": "2026-07-22T12:32:05.000Z"
+      },
+      {
+        "title": "Amankah mencampurkan Pertamax dan Pertalite untuk kendaraan?",
+        "link": "https://otomotif.antaranews.com/berita/5661063/amankah-mencampurkan-pertamax-dan-pertalite-untuk-kendaraan",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Kenaikan harga bahan bakar minyak (BBM) kerap membuat sebagian pemilik kendaraan mencari cara untuk menghemat biaya ...",
+        "published": "2026-07-22T12:14:05.000Z"
+      },
+      {
+        "title": "Apakah bensin dicampur minyak kayu putih bisa lebih irit?",
+        "link": "https://otomotif.antaranews.com/berita/5653273/apakah-bensin-dicampur-minyak-kayu-putih-bisa-lebih-irit",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Klaim bahwa mencampurkan minyak kayu putih ke dalam bensin dapat membuat konsumsi bahan bakar lebih irit ramai ...",
+        "published": "2026-07-17T01:05:17.000Z"
+      },
+      {
+        "title": "Mata uang Iran melemah, apa bedanya rial dan toman?",
+        "link": "https://www.antaranews.com/berita/5352089/mata-uang-iran-melemah-apa-bedanya-rial-dan-toman",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Mata uang Iran belakangan menjadi sorotan dunia seiring memanasnya tensi geopolitik dan kebijakan ekonomi global. ...",
+        "published": "2026-01-14T11:23:19.000Z"
+      }
+    ],
+    "olahraga": [
+      {
+        "title": "Harga tiket dan jadwal pertandingan AFC Futsal Asia Cup Indonesia 2026",
+        "link": "https://www.antaranews.com/berita/5350369/harga-tiket-dan-jadwal-pertandingan-afc-futsal-asia-cup-indonesia-2026",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Sebagai tuan rumah resmi AFC Futsal Asian Cup 2026, Indonesia akan menyambut tim-tim terbaik se-Asia dalam turnamen ...",
+        "published": "2026-01-13T16:18:56.000Z"
+      },
+      {
+        "title": "Profil Basral Graito Hutomo, peraih emas skateboard SEA Games 2025",
+        "link": "https://www.antaranews.com/berita/5319445/profil-basral-graito-hutomo-peraih-emas-skateboard-sea-games-2025",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Nama Basral Graito Hutomo tengah menyita perhatian publik setelah sukses mempersembahkan medali emas bagi Indonesia ...",
+        "published": "2025-12-23T13:22:25.000Z"
+      },
+      {
+        "title": "SEA Games: mempererat tali persaudaraan lewat olahraga",
+        "link": "https://www.antaranews.com/berita/5307148/sea-games-mempererat-tali-persaudaraan-lewat-olahraga",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Southeast Asian Games (SEA Games) ke-33 mulai diselenggarakan pada 9 hingga 20 Desember dengan Thailand sebagai tuan ...",
+        "published": "2025-12-16T06:59:32.000Z"
+      },
+      {
+        "title": "Mengenal olahraga Sepak Takraw: Aturan dan cara bermainnya",
+        "link": "https://www.antaranews.com/berita/5300677/mengenal-olahraga-sepak-takraw-aturan-dan-cara-bermainnya",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Pernahkah melihat pertandingan yang memadukan kelincahan voli dengan teknik tendangan akrobatik ala sepak bola, namun ...",
+        "published": "2025-12-12T00:13:19.000Z"
+      },
+      {
+        "title": "Simak tata cara dan aturan bermain olahraga Petanque",
+        "link": "https://www.antaranews.com/berita/5300674/simak-tata-cara-dan-aturan-bermain-olahraga-petanque",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Petanque merupakan olahraga asal Prancis yang terlihat santai, karena hanya perlu melempar bola di lapangan pasir atau ...",
+        "published": "2025-12-12T00:11:08.000Z"
+      },
+      {
+        "title": "Muay Thai vs Boxing: Perbedaan teknik, aturan, dan filosofinya",
+        "link": "https://www.antaranews.com/berita/5300671/muay-thai-vs-boxing-perbedaan-teknik-aturan-dan-filosofinya",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Muay Thai merupakan olahraga bela diri yang berasal dari Thailand. Popularitasnya meluas ke berbagai negara dan masuk ...",
+        "published": "2025-12-12T00:08:22.000Z"
+      },
+      {
+        "title": "Mengenal \"flying disc\" atau cabor piring terbang di SEA Games 2025",
+        "link": "https://www.antaranews.com/berita/5299324/mengenal-flying-disc-atau-cabor-piring-terbang-di-sea-games-2025",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Olahraga piring terbang (flying disc) mencatat sejarah baru dengan tampil sebagai cabang olahraga demonstrasi di SEA ...",
+        "published": "2025-12-11T07:52:52.000Z"
+      },
+      {
+        "title": "Siapa saja juara dunia F1? Ini daftarnya, hingga terbaru Lando Norris",
+        "link": "https://www.antaranews.com/berita/5294596/siapa-saja-juara-dunia-f1-ini-daftarnya-hingga-terbaru-lando-norris",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Sejak pertama kali digelar, kejuaraan dunia Formula 1 selalu menjadi panggung bergengsi bagi para pembalap terbaik ...",
+        "published": "2025-12-09T03:19:57.000Z"
+      },
+      {
+        "title": "Indomaret Run 2025: Jadwal, pendaftaran, kategori, rute, dan hadiahnya",
+        "link": "https://www.antaranews.com/berita/5155261/indomaret-run-2025-jadwal-pendaftaran-kategori-rute-dan-hadiahnya",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Indomaret kembali menghadirkan ajang olahraga lari berskala besar melalui \"Indomaret Run 2025\" yang akan ...",
+        "published": "2025-10-05T22:50:52.000Z"
+      },
+      {
+        "title": "Berapa kali Marc Marquez jadi juara dunia MotoGP? Ini prestasinya",
+        "link": "https://www.antaranews.com/berita/5142933/berapa-kali-marc-marquez-jadi-juara-dunia-motogp-ini-prestasinya",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Seorang pembalap Grand Prix Sepeda Motor profesional asal Spanyol, Mark Marquez berhasil meraih kembali kursi takhta ...",
+        "published": "2025-09-30T03:43:11.000Z"
+      }
+    ],
+    "teknologi": [
+      {
+        "title": "Spesifikasi Samsung Galaxy Z Fold 8 Ultra: Kamera 200MP, baterai 5.000mAh, Snapdragon 8 Elite Gen 5",
+        "link": "https://www.antaranews.com/berita/5663692/spesifikasi-samsung-galaxy-z-fold-8-ultra-kamera-200mp-baterai-5000mah-snapdragon-8-elite-gen-5",
+        "source": "Tekno - ANTARA News",
+        "summary": "Samsung resmi memperkenalkan Galaxy Z Fold 8 Ultra, ponsel lipat premium terbaru yang membawa sejumlah peningkatan ...",
+        "published": "2026-07-24T01:59:40.000Z"
+      },
+      {
+        "title": "Spesifikasi Samsung Galaxy Z Fold 8: Lebih tipis, baterai tahan 26 jam, AI makin canggih",
+        "link": "https://www.antaranews.com/berita/5663689/spesifikasi-samsung-galaxy-z-fold-8-lebih-tipis-baterai-tahan-26-jam-ai-makin-canggih",
+        "source": "Tekno - ANTARA News",
+        "summary": "Samsung kembali memperkuat lini ponsel lipat premium dengan meluncurkan Samsung Galaxy Z Fold 8. Generasi terbaru seri ...",
+        "published": "2026-07-24T01:54:50.000Z"
+      },
+      {
+        "title": "Perbedaan KOL dan Influencer, anak marketing harus tahu!",
+        "link": "https://www.antaranews.com/berita/5662752/perbedaan-kol-dan-influencer-anak-marketing-harus-tahu",
+        "source": "Tekno - ANTARA News",
+        "summary": "Istilah Key Opinion Leader (KOL) dan influencer atau pemengaruh semakin sering digunakan dalam dunia pemasaran ...",
+        "published": "2026-07-23T10:15:05.000Z"
+      },
+      {
+        "title": "8 power bank terbaik 2026 yang bagus, awet, dan fast charging",
+        "link": "https://www.antaranews.com/berita/5661805/8-power-bank-terbaik-2026-yang-bagus-awet-dan-fast-charging",
+        "source": "Tekno - ANTARA News",
+        "summary": "Power bank menjadi perangkat penting bagi pengguna smartphone yang sering beraktivitas di luar rumah. Pada 2026, ...",
+        "published": "2026-07-23T01:13:12.000Z"
+      },
+      {
+        "title": "5 rekomendasi laptop murah untuk pelajar dan mahasiswa 2026",
+        "link": "https://www.antaranews.com/berita/5661800/5-rekomendasi-laptop-murah-untuk-pelajar-dan-mahasiswa-2026",
+        "source": "Tekno - ANTARA News",
+        "summary": "Kebutuhan laptop untuk pelajar dan mahasiswa terus meningkat seiring aktivitas belajar digital, mulai dari mengerjakan ...",
+        "published": "2026-07-23T01:09:47.000Z"
+      },
+      {
+        "title": "Cara kosongkan memori HP Android tanpa hapus aplikasi",
+        "link": "https://www.antaranews.com/berita/5658059/cara-kosongkan-memori-hp-android-tanpa-hapus-aplikasi",
+        "source": "Tekno - ANTARA News",
+        "summary": "Memori penyimpanan yang hampir penuh dapat membuat ponsel Android terasa lambat, sulit memasang aplikasi baru, hingga ...",
+        "published": "2026-07-20T23:20:31.000Z"
+      },
+      {
+        "title": "Mau beli PS4 di 2026? Ini bedanya PS4 HEN dan Original dari Sony",
+        "link": "https://www.antaranews.com/berita/5330305/mau-beli-ps4-di-2026-ini-bedanya-ps4-hen-dan-original-dari-sony",
+        "source": "Tekno - ANTARA News",
+        "summary": "Memasuki awal tahun 2026, keinginan untuk memiliki konsol game seperti PlayStation 4 masih cukup tinggi, terutama bagi ...",
+        "published": "2026-01-02T02:23:34.000Z"
+      },
+      {
+        "title": "Cara cek update HyperOS 3 dan daftar HP Xiaomi yang kebagian di China",
+        "link": "https://www.antaranews.com/berita/5319967/cara-cek-update-hyperos-3-dan-daftar-hp-xiaomi-yang-kebagian-di-china",
+        "source": "Tekno - ANTARA News",
+        "summary": "Xiaomi resmi melanjutkan pengembangan sistem operasinya dengan menghadirkan HyperOS 3 yang berbasis Android 16. ...",
+        "published": "2025-12-24T01:43:47.000Z"
+      },
+      {
+        "title": "Perbandingan PS4 dan PS5, masih layakkah PS4 di akhir tahun 2025?",
+        "link": "https://www.antaranews.com/berita/5319412/perbandingan-ps4-dan-ps5-masih-layakkah-ps4-di-akhir-tahun-2025",
+        "source": "Tekno - ANTARA News",
+        "summary": "Perkembangan konsol game terus mengalami kemajuan pesat, terutama sejak kehadiran PlayStation 5 yang membawa berbagai ...",
+        "published": "2025-12-23T13:16:37.000Z"
+      },
+      {
+        "title": "Cara update iOS 26.2 dan daftar perangkat yang tersedia update",
+        "link": "https://www.antaranews.com/berita/5312440/cara-update-ios-262-dan-daftar-perangkat-yang-tersedia-update",
+        "source": "Tekno - ANTARA News",
+        "summary": "Apple resmi merilis pembaruan sistem operasi terbaru untuk iPhone, yaitu iOS 26.2. Pembaruan ini memiliki beberapa ...",
+        "published": "2025-12-18T23:27:47.000Z"
+      }
+    ],
+    "hiburan": [
+      {
+        "title": "Kisah Odysseus sang Raja Ithaca dari mitologi Yunani",
+        "link": "https://www.antaranews.com/berita/5656513/kisah-odysseus-sang-raja-ithaca-dari-mitologi-yunani",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Odysseus merupakan salah satu tokoh paling terkenal dalam mitologi Yunani kuno. Sosok Raja Ithaca ini dikenal luas ...",
+        "published": "2026-07-20T00:06:24.000Z"
+      },
+      {
+        "title": "Daftar lengkap film dan serial MCU yang akan tayang 2026",
+        "link": "https://www.antaranews.com/berita/5357574/daftar-lengkap-film-dan-serial-mcu-yang-akan-tayang-2026",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Tahun 2026 diprediksi menjadi salah satu fase penting bagi Marvel Cinematic Universe (MCU). Setelah melalui berbagai ...",
+        "published": "2026-01-17T12:14:46.000Z"
+      },
+      {
+        "title": "Live action \"One Piece Season 2\" tayang Maret 2026, ini sinopsisnya",
+        "link": "https://www.antaranews.com/berita/5354485/live-action-one-piece-season-2-tayang-maret-2026-ini-sinopsisnya",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Kesuksesan serial versi live action \"One Piece\" Season 1 di Netflix menjadi tonggak penting bagi adaptasi ...",
+        "published": "2026-01-15T12:00:27.000Z"
+      },
+      {
+        "title": "Sinopsis buku \"Broken Strings\" karya Aurelie Moeremans",
+        "link": "https://www.antaranews.com/berita/5353477/sinopsis-buku-broken-strings-karya-aurelie-moeremans",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Aktris Aurelie Moeremans belakangan menjadi sorotan publik setelah merilis sebuah buku memoar berjudul \"Broken ...",
+        "published": "2026-01-15T05:13:14.000Z"
+      },
+      {
+        "title": "Jadwal lengkap BTS World Tour 2026-2027, Indonesia kebagian Desember",
+        "link": "https://www.antaranews.com/berita/5352081/jadwal-lengkap-bts-world-tour-2026-2027-indonesia-kebagian-desember",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Kabar gembira bagi ARMY (nama fandom global BTS) di seluruh dunia. BTS resmi mengumumkan jadwal lengkap World Tour 2026 ...",
+        "published": "2026-01-14T11:20:23.000Z"
+      },
+      {
+        "title": "Profil Aurelie Moeremans, aktris di balik buku memoar \"Broken Strings\"",
+        "link": "https://www.antaranews.com/berita/5350649/profil-aurelie-moeremans-aktris-di-balik-buku-memoar-broken-strings",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Aktris berbakat Aurelie Moeremans tengah menjadi sorotan publik setelah merilis buku memoar berjudul \"Broken ...",
+        "published": "2026-01-14T01:00:46.000Z"
+      },
+      {
+        "title": "Sinopsis film horor terbaru \"Alas Roban\" tayang 15 Januari 2026",
+        "link": "https://www.antaranews.com/berita/5344237/sinopsis-film-horor-terbaru-alas-roban-tayang-15-januari-2026",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Layar lebar Indonesia kembali menyuguhkan kisah horor dari salah satu lokasi paling angker di tanah Jawa. Film horor ...",
+        "published": "2026-01-10T13:00:45.000Z"
+      },
+      {
+        "title": "Film \"Suka Duka Tawa\" sudah tayang 2026, ini sinopsis dan pemainnya",
+        "link": "https://www.antaranews.com/berita/5342501/film-suka-duka-tawa-sudah-tayang-2026-ini-sinopsis-dan-pemainnya",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Film komedi terbaru berjudul \"Suka Duka Tawa\" resmi tayang serentak di bioskop seluruh Indonesia mulai 8 ...",
+        "published": "2026-01-09T11:47:24.000Z"
+      },
+      {
+        "title": "Ini film \"Doraemon\" yang masih bisa di tonton lewat Netflix",
+        "link": "https://www.antaranews.com/berita/5339685/ini-film-doraemon-yang-masih-bisa-di-tonton-lewat-netflix",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Siapa yang tak mengenal Doraemon, robot kucing berwarna biru dari masa depan yang menemani petualangan Nobita dan ...",
+        "published": "2026-01-08T09:07:29.000Z"
+      },
+      {
+        "title": "Profil Millie Bobby Brown, sosok Eleven dalam serial \"Stranger Things\"",
+        "link": "https://www.antaranews.com/berita/5334655/profil-millie-bobby-brown-sosok-eleven-dalam-serial-stranger-things",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Nama Millie Bobby Brown kembali mencuri perhatian publik lewat perannya sebagai Eleven dalam serial fenomenal Stranger ...",
+        "published": "2026-01-05T14:41:41.000Z"
+      }
+    ],
+    "dunia": [
+      {
+        "title": "Daftar 13 tokoh dunia yang masuk target balas dendam Iran",
+        "link": "https://www.antaranews.com/berita/5653244/daftar-13-tokoh-dunia-yang-masuk-target-balas-dendam-iran",
+        "source": "Dunia - ANTARA News",
+        "summary": "Media massa yang berafiliasi dengan pemerintah Iran, Hamshahri, memuat daftar 13 tokoh dunia yang disebut menjadi ...",
+        "published": "2026-07-17T00:50:36.000Z"
+      },
+      {
+        "title": "Trump akan kenakan tarif 25 persen pada produk otomotif, kayu, dan farmasi Korsel",
+        "link": "https://www.antaranews.com/berita/5378358/trump-akan-kenakan-tarif-25-persen-pada-produk-otomotif-kayu-dan-farmasi-korsel",
+        "source": "Dunia - ANTARA News",
+        "summary": "Presiden Amerika Serikat (AS) Donald Trump pada Senin (26/1) menyampaikan bahwa dirinya akan menaikkan tarif dari 15 ...",
+        "published": "2026-01-27T04:53:03.000Z"
+      },
+      {
+        "title": "Profil Sidharto Reza, Presiden Dewan HAM PBB perwakilan RI",
+        "link": "https://www.antaranews.com/berita/5342817/profil-sidharto-reza-presiden-dewan-ham-pbb-perwakilan-ri",
+        "source": "Dunia - ANTARA News",
+        "summary": "Indonesia kembali mendapat kepercayaan di kancah internasional melalui terpilihnya diplomat senior Sidharto Reza ...",
+        "published": "2026-01-09T13:37:19.000Z"
+      },
+      {
+        "title": "Trump klaim Kuba tak akan bisa bertahan tanpa pasokan minyak Venezuela",
+        "link": "https://www.antaranews.com/berita/5342181/trump-klaim-kuba-tak-akan-bisa-bertahan-tanpa-pasokan-minyak-venezuela",
+        "source": "Dunia - ANTARA News",
+        "summary": "Presiden Amerika Serikat Donald Trump pada Jumat mengatakan bahwa Kuba tidak akan mampu bertahan tanpa pasokan ...",
+        "published": "2026-01-09T09:56:49.000Z"
+      },
+      {
+        "title": "Ketahui 6 fakta menarik terkait negara Venezuela",
+        "link": "https://www.antaranews.com/berita/5339693/ketahui-6-fakta-menarik-terkait-negara-venezuela",
+        "source": "Dunia - ANTARA News",
+        "summary": "Negara Venezuela menjadi sorotan dunia setelah kabar penangkapan Presiden Nicolas Maduro oleh Presiden AS Donald ...",
+        "published": "2026-01-08T09:08:53.000Z"
+      },
+      {
+        "title": "Mengenal Greenland, 10 fakta menarik pulau terbesar di dunia",
+        "link": "https://www.antaranews.com/berita/5339621/mengenal-greenland-10-fakta-menarik-pulau-terbesar-di-dunia",
+        "source": "Dunia - ANTARA News",
+        "summary": "Greenland adalah sebuah negara yang dikenal 80 persen wilayahnya tertutup oleh es abadi, bukan hamparan daratan hijau ...",
+        "published": "2026-01-08T08:51:29.000Z"
+      },
+      {
+        "title": "Spanyol tolak intervensi yang langgar hukum internasional di Venezuela",
+        "link": "https://www.antaranews.com/berita/5332804/spanyol-tolak-intervensi-yang-langgar-hukum-internasional-di-venezuela",
+        "source": "Dunia - ANTARA News",
+        "summary": "Spanyol tidak akan mendukung intervensi eksternal apa pun di Venezuela yang melanggar hukum internasional dan berisiko ...",
+        "published": "2026-01-04T10:38:54.000Z"
+      },
+      {
+        "title": "Mengetahui apa itu Dewan HAM PBB, fungsi, dan tugasnya",
+        "link": "https://www.antaranews.com/berita/5323990/mengetahui-apa-itu-dewan-ham-pbb-fungsi-dan-tugasnya",
+        "source": "Dunia - ANTARA News",
+        "summary": "Indonesia terpilih menjadi kandidat Ketua Dewan HAM PBB untuk masa jabatan 2026, setelah mendapatkan dukungan dari ...",
+        "published": "2025-12-27T14:00:05.000Z"
+      },
+      {
+        "title": "Selain Patung Liberty, Ini daftar landmark ikonik megah di dunia",
+        "link": "https://www.antaranews.com/berita/5314822/selain-patung-liberty-ini-daftar-landmark-ikonik-megah-di-dunia",
+        "source": "Dunia - ANTARA News",
+        "summary": "Berbagai belahan dunia menyimpan bangunan megah yang bukan hanya menjadi saksi sejarah, tetapi juga simbol kemewahan ...",
+        "published": "2025-12-20T08:52:29.000Z"
+      },
+      {
+        "title": "Sejarah dan makna Patung Liberty di balik video robohnya yang viral",
+        "link": "https://www.antaranews.com/berita/5312446/sejarah-dan-makna-patung-liberty-di-balik-video-robohnya-yang-viral",
+        "source": "Dunia - ANTARA News",
+        "summary": "Video robohnya replika Patung Liberty di Brasil yang belakangan viral di media sosial menjadi perbincangan dan ...",
+        "published": "2025-12-18T23:37:14.000Z"
+      }
+    ]
   }
 }
