@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-07-30T15:56:03.809Z",
+  "updatedAt": "2026-07-30T17:28:14.965Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "BP Tapera: Rumah subsidi diminati oleh generasi milenial dan Gen Z",
+        "link": "https://www.antaranews.com/berita/5673547/bp-tapera-rumah-subsidi-diminati-oleh-generasi-milenial-dan-gen-z",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Pengelola Tabungan Perumahan Rakyat (BP Tapera) menyebut rumah subsidi dari Fasilitas Likuiditas Pembiayaan ...",
+        "published": "2026-07-30T17:25:11.000Z"
+      },
+      {
+        "title": "BPDAS Mahakam Berau: Rehabilitasi mangrove perlu dilakukan terpadu",
+        "link": "https://www.antaranews.com/berita/5673543/bpdas-mahakam-berau-rehabilitasi-mangrove-perlu-dilakukan-terpadu",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Balai Pengelolaan Daerah Aliran Sungai (BPDAS) Mahakam Berau menyatakan rehabilitasi mangrove perlu dilakukan secara ...",
+        "published": "2026-07-30T17:17:51.000Z"
+      },
+      {
+        "title": "KPK perketat pengamanan data usai pegawainya jadi tersangka",
+        "link": "https://www.antaranews.com/video/5673429/kpk-perketat-pengamanan-data-usai-pegawainya-jadi-tersangka",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Ketua KPK Setyo Budiyanto, merespons soal pegawai staf administrasi KPK yang menjadi tersangka dalam kasus ...",
+        "published": "2026-07-30T17:11:49.000Z"
+      },
+      {
+        "title": "Samudera Indonesia cetak laba bersih 32,52 juta dolar AS di semester I",
+        "link": "https://www.antaranews.com/berita/5673539/samudera-indonesia-cetak-laba-bersih-3252-juta-dolar-as-di-semester-i",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT Samudera Indonesia Tbk (SMDR) membukukan laba bersih senilai 32,52 juta dolar Amerika Serikat (AS) pada semester ...",
+        "published": "2026-07-30T17:01:21.000Z"
+      },
+      {
+        "title": "Istana: Kriteria Gubernur BI yang baru wajib \"merah putih\"",
+        "link": "https://www.antaranews.com/berita/5673537/istana-kriteria-gubernur-bi-yang-baru-wajib-merah-putih",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Sekretaris Negara Prasetyo Hadi, yang juga Juru Bicara Presiden RI, mengungkap kriteria khusus yang wajib ...",
+        "published": "2026-07-30T16:58:30.000Z"
+      },
+      {
+        "title": "Festival jazz Ubud jadi wadah negara-negara kenalkan musisi muda",
+        "link": "https://www.antaranews.com/berita/5673533/festival-jazz-ubud-jadi-wadah-negara-negara-kenalkan-musisi-muda",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Festival musik jazz internasional Sthala Ubud Village Jazz Festival (SUVJF) yang kembali digelar tahun 2026 menjadi ...",
+        "published": "2026-07-30T16:55:47.000Z"
+      },
+      {
+        "title": "Mentan: Beras fortifikasi tak penuhi SNI konsumen rugi Rp71,9 triliun",
+        "link": "https://www.antaranews.com/berita/5673532/mentan-beras-fortifikasi-tak-penuhi-sni-konsumen-rugi-rp719-triliun",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Pertanian (Mentan) Andi Amran Sulaiman mengungkap dugaan peredaran beras fortifikasi yang tidak memenuhi ...",
+        "published": "2026-07-30T16:53:48.000Z"
+      },
+      {
+        "title": "OJK Jabar ingatkan ASN jauhi judi online usai temuan PPATK",
+        "link": "https://www.antaranews.com/video/5673417/ojk-jabar-ingatkan-asn-jauhi-judi-online-usai-temuan-ppatk",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Otoritas Jasa Keuangan atau OJK Provinsi Jawa Barat mengingatkan aparatur sipil negara atau ASN di wilayah ...",
+        "published": "2026-07-30T16:50:00.000Z"
+      },
+      {
+        "title": "Basarnas cari remaja yang diduga tenggelam di Jagakarsa",
+        "link": "https://www.antaranews.com/berita/5673531/basarnas-cari-remaja-yang-diduga-tenggelam-di-jagakarsa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Personel Unit Siaga SAR Bekasi melaksanakan operasi pencarian terhadap seorang remaja bernama Zafran Ramadhan ...",
+        "published": "2026-07-30T16:49:38.000Z"
+      },
+      {
+        "title": "27 tim sepak bola Kalsel-Teng berebut gelar di ajang Gubernur Cup",
+        "link": "https://www.antaranews.com/video/5673505/27-tim-sepak-bola-kalsel-teng-berebut-gelar-di-ajang-gubernur-cup",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Sebanyak 27 tim sepak bola dari Kalimantan Selatan Dan Kalimantan Tengah, bersaing dalam ajang Gubernur Cup ...",
+        "published": "2026-07-30T16:48:15.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "6 titik shuttle bus gratis GIIAS 2026 ke ICE BSD, cek lokasi & jadwalnya",
@@ -220,6 +291,13 @@
     ],
     "hiburan": [
       {
+        "title": "Sinopsis Spider-Man: Brand New Day, film baru Tom Holland yang resmi tayang di bioskop",
+        "link": "https://www.antaranews.com/berita/5673487/sinopsis-spider-man-brand-new-day-film-baru-tom-holland-yang-resmi-tayang-di-bioskop",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Kabar gembira bagi para penggemar film superhero. Spider-Man: Brand New Day resmi tayang di bioskop mulai 30 Juli 2026, ...",
+        "published": "2026-07-30T16:22:19.000Z"
+      },
+      {
         "title": "15 Rekomendasi film bioskop seru bulan Agustus 2026",
         "link": "https://www.antaranews.com/berita/5671105/15-rekomendasi-film-bioskop-seru-bulan-agustus-2026",
         "source": "Hiburan - ANTARA News",
@@ -281,13 +359,6 @@
         "source": "Hiburan - ANTARA News",
         "summary": "Aktris berbakat Aurelie Moeremans tengah menjadi sorotan publik setelah merilis buku memoar berjudul \"Broken ...",
         "published": "2026-01-14T01:00:46.000Z"
-      },
-      {
-        "title": "Sinopsis film horor terbaru \"Alas Roban\" tayang 15 Januari 2026",
-        "link": "https://www.antaranews.com/berita/5344237/sinopsis-film-horor-terbaru-alas-roban-tayang-15-januari-2026",
-        "source": "Hiburan - ANTARA News",
-        "summary": "Layar lebar Indonesia kembali menyuguhkan kisah horor dari salah satu lokasi paling angker di tanah Jawa. Film horor ...",
-        "published": "2026-01-10T13:00:45.000Z"
       }
     ],
     "dunia": [
