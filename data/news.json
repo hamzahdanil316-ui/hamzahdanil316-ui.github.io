@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-07-31T11:59:06.361Z",
+  "updatedAt": "2026-07-31T14:27:15.939Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "BNN grebek gudang narkoba di Batam, enam orang ditangkap",
+        "link": "https://www.antaranews.com/video/5674908/bnn-grebek-gudang-narkoba-di-batam-enam-orang-ditangkap",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Badan Narkotika Nasional (BNN) RI melakukan pengrebekan pada empat gudang narkoba di Kota Batam, ...",
+        "published": "2026-07-31T14:25:45.000Z"
+      },
+      {
+        "title": "Laporan: PM Spanyol bakal kunjungi Ceuta di tengah lonjakan migran",
+        "link": "https://www.antaranews.com/berita/5674989/laporan-pm-spanyol-bakal-kunjungi-ceuta-di-tengah-lonjakan-migran",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Perdana Menteri Spanyol Pedro Sanchez akan mengunjungi wilayah kantong (enklave) Spanyol, Ceuta, di Afrika Utara, di ...",
+        "published": "2026-07-31T14:22:04.000Z"
+      },
+      {
+        "title": "Polisi selidiki penyebab kematian ayah dan bayi di Cirebon",
+        "link": "https://www.antaranews.com/berita/5674988/polisi-selidiki-penyebab-kematian-ayah-dan-bayi-di-cirebon",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polresta Cirebon menyelidiki penyebab kematian seorang ayah dan bayi laki-lakinya yang ditemukan meninggal dalam rumah ...",
+        "published": "2026-07-31T14:20:47.000Z"
+      },
+      {
+        "title": "Menteri PPN: Integrasi pertanian dan industri jadi kekuatan Lamongan",
+        "link": "https://www.antaranews.com/berita/5674985/menteri-ppn-integrasi-pertanian-dan-industri-jadi-kekuatan-lamongan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Perencanaan Pembangunan Nasional (PPN) Rachmat Pambudy menyatakan integrasi sektor pertanian dan industri ...",
+        "published": "2026-07-31T14:20:45.000Z"
+      },
+      {
+        "title": "OJK sebut pertukaran informasi antarlembaga soal judol kian intensif",
+        "link": "https://www.antaranews.com/berita/5674981/ojk-sebut-pertukaran-informasi-antarlembaga-soal-judol-kian-intensif",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Otoritas Jasa Keuangan (OJK) menyatakan bahwa koordinasi dan pertukaran informasi antarlembaga sebagai bagian dari ...",
+        "published": "2026-07-31T14:20:06.000Z"
+      },
+      {
+        "title": "Hasan Nasbi sebut \"londo ireng\" istilah untuk kelompok suka buat gaduh",
+        "link": "https://www.antaranews.com/berita/5674980/hasan-nasbi-sebut-londo-ireng-istilah-untuk-kelompok-suka-buat-gaduh",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Penasihat Khusus Presiden Bidang Komunikasi dan Media Hasan Nasbi mengatakan istilah \"londo ireng\" yang ...",
+        "published": "2026-07-31T14:19:28.000Z"
+      },
+      {
+        "title": "Kemenhut perkuat jaringan persemaian dan kualitas bibit nasional",
+        "link": "https://www.antaranews.com/berita/5674969/kemenhut-perkuat-jaringan-persemaian-dan-kualitas-bibit-nasional",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Kehutanan (Kemenhut) memperkuat jaringan persemaian nasional sebagai tindak lanjut arahan Presiden Prabowo ...",
+        "published": "2026-07-31T14:15:00.000Z"
+      },
+      {
+        "title": "Pasar mobil bekas masih didominasi merek Jepang",
+        "link": "https://otomotif.antaranews.com/berita/5674968/pasar-mobil-bekas-masih-didominasi-merek-jepang",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktur OLXmobbi Agung Iskandar menyampaikan bahwa kendaraan merek Jepang masih mendominasi pasar mobil bekas ...",
+        "published": "2026-07-31T14:13:32.000Z"
+      },
+      {
+        "title": "Indonesia takluk dari Thailand pada pembuka SEA V Women’s Cup 2026",
+        "link": "https://www.antaranews.com/berita/5674964/indonesia-takluk-dari-thailand-pada-pembuka-sea-v-womens-cup-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim nasional voli putri Indonesia mengawali perjuangan pada SEA V Women's Cup 2026 dengan kekalahan 1-3 dari ...",
+        "published": "2026-07-31T14:11:57.000Z"
+      },
+      {
+        "title": "Polisi identifikasi empat terduga pelaku pembacokan pelajar di Jakbar",
+        "link": "https://www.antaranews.com/berita/5674960/polisi-identifikasi-empat-terduga-pelaku-pembacokan-pelajar-di-jakbar",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polisi mengantongi identitas empat terduga pelaku pembacokan terhadap seorang pelajar bernama Davi Sepriansah (16) di ...",
+        "published": "2026-07-31T14:11:27.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "6 titik shuttle bus gratis GIIAS 2026 ke ICE BSD, cek lokasi & jadwalnya",
