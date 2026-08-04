@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-04T04:13:07.335Z",
+  "updatedAt": "2026-08-04T07:38:39.188Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Malut United jadi Java United FC, pindah kandang ke Semarang",
+        "link": "https://www.antaranews.com/berita/5679107/malut-united-jadi-java-united-fc-pindah-kandang-ke-semarang",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Malut United berganti nama menjadi Java United FC dan memindahkan kandangnya dari Ternate di Maluku Utara ke Semarang ...",
+        "published": "2026-08-04T07:36:53.000Z"
+      },
+      {
+        "title": "BMKG lakukan modifikasi cuaca jaga ketersediaan air hadapi El Nino",
+        "link": "https://www.antaranews.com/berita/5679104/bmkg-lakukan-modifikasi-cuaca-jaga-ketersediaan-air-hadapi-el-nino",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melakukan operasi modifikasi cuaca untuk menjaga ketersediaan air ...",
+        "published": "2026-08-04T07:32:40.000Z"
+      },
+      {
+        "title": "Ombudsman tegaskan temuan ORI harus jadi bahan evaluasi benahi sistem",
+        "link": "https://www.antaranews.com/berita/5679103/ombudsman-tegaskan-temuan-ori-harus-jadi-bahan-evaluasi-benahi-sistem",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ombudsman Republik Indonesia (ORI) menegaskan temuan lembaga itu harus dijadikan bahan evaluasi untuk ...",
+        "published": "2026-08-04T07:31:30.000Z"
+      },
+      {
+        "title": "Urus KTP Elektronik kini lebih mudah, Pemprov Jateng buka layanan jemput bola gratis untuk warga",
+        "link": "https://www.antaranews.com/foto/5679100/urus-ktp-elektronik-kini-lebih-mudah-pemprov-jateng-buka-layanan-jemput-bola-gratis-untuk-warga",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Petugas Disdukcapil merekam iris mata warga untuk pembuatan KTP elektronik saat layanan jemput bola administrasi ...",
+        "published": "2026-08-04T07:29:32.000Z"
+      },
+      {
+        "title": "Kejati NTB tangani tiga kasus dugaan korupsi terkait bank daerah",
+        "link": "https://www.antaranews.com/berita/5679099/kejati-ntb-tangani-tiga-kasus-dugaan-korupsi-terkait-bank-daerah",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kejaksaan Tinggi Nusa Tenggara Barat menangani tiga kasus dugaan korupsi yang berkaitan dengan penggunaan anggaran ...",
+        "published": "2026-08-04T07:27:33.000Z"
+      },
+      {
+        "title": "Komisi III DPR masih kaji usulan penggantian nama RUU Perampasan Aset",
+        "link": "https://www.antaranews.com/berita/5679097/komisi-iii-dpr-masih-kaji-usulan-penggantian-nama-ruu-perampasan-aset",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Komisi III DPR RI masih mengkaji usulan penggantian nama terkait Rancangan Undang-Undang (RUU) tentang Perampasan ...",
+        "published": "2026-08-04T07:27:28.000Z"
+      },
+      {
+        "title": "Kemenhub siapkan tujuh pola pikir konsep RUU Sistranas",
+        "link": "https://www.antaranews.com/berita/5679095/kemenhub-siapkan-tujuh-pola-pikir-konsep-ruu-sistranas",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Perhubungan (Kemenhub) menyiapkan tujuh pola pikir dalam konsep Rancangan Undang-Undang Sistem Transportasi ...",
+        "published": "2026-08-04T07:27:24.000Z"
+      },
+      {
+        "title": "BSKDN minta pemda jadikan IPKD instrumen perbaikan tata kelola",
+        "link": "https://www.antaranews.com/berita/5679092/bskdn-minta-pemda-jadikan-ipkd-instrumen-perbaikan-tata-kelola",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kepala Badan Strategi Kebijakan Dalam Negeri (BSKDN) Kementerian Dalam Negeri Yusharto Huntoyungo meminta pemerintah ...",
+        "published": "2026-08-04T07:23:48.000Z"
+      },
+      {
+        "title": "Ekonom: Pasokan pangan membaik jaga inflasi tetap terkendali",
+        "link": "https://www.antaranews.com/berita/5679091/ekonom-pasokan-pangan-membaik-jaga-inflasi-tetap-terkendali",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ekonom PT Bank Danamon Indonesia Tbk menilai inflasi pada Juli 2026 tetap terkendali seiring membaiknya pasokan pangan ...",
+        "published": "2026-08-04T07:23:45.000Z"
+      },
+      {
+        "title": "BPJS Kesehatan: Syarat JKN untuk daftar SIM dorong keaktifan peserta",
+        "link": "https://www.antaranews.com/berita/5679087/bpjs-kesehatan-syarat-jkn-untuk-daftar-sim-dorong-keaktifan-peserta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktur Kepesertaan BPJS Kesehatan RI Akmal Budi Yulianto menyatakan persyaratan Jaminan Kesehatan Nasional (JKN) ...",
+        "published": "2026-08-04T07:23:34.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Jam buka GIIAS 2026 lengkap, simak jadwal operasional dan harga tiket",
