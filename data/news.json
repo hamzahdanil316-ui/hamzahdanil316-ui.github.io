@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-10T13:05:12.957Z",
+  "updatedAt": "2026-08-10T14:57:28.851Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Mantan pemain Indiana Pacers ditunjuk sebagai GM tim universitas",
+        "link": "https://www.antaranews.com/berita/5688212/mantan-pemain-indiana-pacers-ditunjuk-sebagai-gm-tim-universitas",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Mantan pemain Indiana Pacers, Monta Ellis, memulai babak baru kariernya sebagai general manager (GM) tim bola basket ...",
+        "published": "2026-08-10T14:53:15.000Z"
+      },
+      {
+        "title": "Kereta Y404 jadi sarana widyawisata dan ruang lelas bergerak di China",
+        "link": "https://www.antaranews.com/berita/5688208/kereta-y404-jadi-sarana-widyawisata-dan-ruang-lelas-bergerak-di-china",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kereta khusus Y404 untuk widyawisata (study tour) yang mengangkut 598 guru dan murid pada Minggu (9/8) berangkat dari ...",
+        "published": "2026-08-10T14:52:46.000Z"
+      },
+      {
+        "title": "Menhub menegaskan cabut izin operator KMP Mutiara bila terbukti lalai",
+        "link": "https://www.antaranews.com/berita/5688205/menhub-menegaskan-cabut-izin-operator-kmp-mutiara-bila-terbukti-lalai",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi menegaskan pemerintah akan mencabut izin operator KMP Mutiara Sentosa ...",
+        "published": "2026-08-10T14:49:25.000Z"
+      },
+      {
+        "title": "Morgan jaga peluang ke Kejuaraan Dunia Karting setelah juarai MiniRok",
+        "link": "https://www.antaranews.com/berita/5688204/morgan-jaga-peluang-ke-kejuaraan-dunia-karting-setelah-juarai-minirok",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Atlet gokart muda Morgan Holindo Sonmoahi menjaga peluang meraih tiket Kejuaraan Dunia Karting di Italia setelah ...",
+        "published": "2026-08-10T14:49:16.000Z"
+      },
+      {
+        "title": "Survei IPO tempatkan Bahlil dan Golkar sama-sama di posisi ketiga",
+        "link": "https://www.antaranews.com/berita/5688201/survei-ipo-tempatkan-bahlil-dan-golkar-sama-sama-di-posisi-ketiga",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Survei Indonesia Political Opinion (IPO) menempatkan Menteri Energi dan Sumber Daya Mineral sekaligus Ketua Umum Partai ...",
+        "published": "2026-08-10T14:45:40.000Z"
+      },
+      {
+        "title": "Pebasket lokal Indonesia makin berkualitas",
+        "link": "https://www.antaranews.com/berita/5688200/pebasket-lokal-indonesia-makin-berkualitas",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih kepala tim nasional bola basket putra Indonesia David Singleton menilai kualitas pemain lokal semakin bagus ...",
+        "published": "2026-08-10T14:44:34.000Z"
+      },
+      {
+        "title": "Ichsan Pratama gabung Deltras FC siap arungi musim baru",
+        "link": "https://www.antaranews.com/berita/5688196/ichsan-pratama-gabung-deltras-fc-siap-arungi-musim-baru",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gelandang senior Ichsan Pratama resmi bergabung dengan Deltras FC setelah musim lalu membela PSS Sleman, dengan target ...",
+        "published": "2026-08-10T14:38:10.000Z"
+      },
+      {
+        "title": "Komisi IX ajak semua pihak ambil peran dalam program 'Genting'",
+        "link": "https://www.antaranews.com/berita/5688193/komisi-ix-ajak-semua-pihak-ambil-peran-dalam-program-genting",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ketua Komisi IX DPR-RI, Felly E. Runtuwene mengajak semua pihak ikut mengambil peran dalam program 'Gerakan ...",
+        "published": "2026-08-10T14:38:01.000Z"
+      },
+      {
+        "title": "BTN bermitra dengan Pemkot Padang memperluas layanan KPR hingga UMKM",
+        "link": "https://www.antaranews.com/berita/5688189/btn-bermitra-dengan-pemkot-padang-memperluas-layanan-kpr-hingga-umkm",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT Bank Tabungan Negara (Persero) Tbk (BTN) bermitra dengan Pemerintah Kota (Pemkot) Padang, Sumatera Barat (Sumbar), ...",
+        "published": "2026-08-10T14:32:15.000Z"
+      },
+      {
+        "title": "Puslabfor ambil 30 item dari olah TKP di sekolah temuan senjata di Jaksel",
+        "link": "https://www.antaranews.com/berita/5688185/puslabfor-ambil-30-item-dari-olah-tkp-di-sekolah-temuan-senjata-di-jaksel",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim Pusat Laboratorium Forensik (Puslabfor) Bareskrim Polri mengambil sebanyak 30 item dari olah tempat kejadian ...",
+        "published": "2026-08-10T14:31:22.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Bolehkah satu rumah punya 2 meteran listrik? Ini penjelasannya",
