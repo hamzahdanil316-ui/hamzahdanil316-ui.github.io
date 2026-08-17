@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-17T15:24:15.516Z",
+  "updatedAt": "2026-08-17T16:25:53.861Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Pramono ajak seluruh masyarakat jaga keamanan Jakarta",
+        "link": "https://www.antaranews.com/berita/5698983/pramono-ajak-seluruh-masyarakat-jaga-keamanan-jakarta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur DKI Jakarta Pramono Anung Wibowo mengajak seluruh elemen masyarakat menjaga keamanan, kenyamanan dan situasi ...",
+        "published": "2026-08-17T16:20:39.000Z"
+      },
+      {
+        "title": "Pendaki dievakuasi dari Gunung Bawakareng bertambah menjadi 26 orang",
+        "link": "https://www.antaranews.com/berita/5698979/pendaki-dievakuasi-dari-gunung-bawakareng-bertambah-menjadi-26-orang",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim SAR gabungan terus melakukan operasi penyelamatan untuk mengevakuasi 26 orang dari sebelumnya 16 orang pendaki yang ...",
+        "published": "2026-08-17T16:14:20.000Z"
+      },
+      {
+        "title": "Di tengah karnaval, Menkomdigi ingatkan solidaritas korban gempa NTT",
+        "link": "https://www.antaranews.com/berita/5698976/di-tengah-karnaval-menkomdigi-ingatkan-solidaritas-korban-gempa-ntt",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Di tengah semarak Karnaval Kemerdekaan Ke-81 Republik Indonesia, Menteri Komunikasi dan Digital Meutya Hafid mengajak ...",
+        "published": "2026-08-17T16:12:59.000Z"
+      },
+      {
+        "title": "Jasa Marga perkuat konektivitas dan layanan tol pada HUT Ke-81 RI",
+        "link": "https://www.antaranews.com/berita/5698973/jasa-marga-perkuat-konektivitas-dan-layanan-tol-pada-hut-ke-81-ri",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT Jasa Marga (Persero) Tbk memperkuat konektivitas nasional dan kualitas layanan jalan tol melalui penguatan ...",
+        "published": "2026-08-17T16:09:00.000Z"
+      },
+      {
+        "title": "Presiden Prabowo pimpin Ziarah Nasional dan renungan suci di TMPNU",
+        "link": "https://www.antaranews.com/berita/5698972/presiden-prabowo-pimpin-ziarah-nasional-dan-renungan-suci-di-tmpnu",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Prabowo Subianto memimpin Upacara Ziarah Nasional dan Renungan Suci dalam rangka memperingati Hari Ulang Tahun ...",
+        "published": "2026-08-17T16:04:27.000Z"
+      },
+      {
+        "title": "Imigrasi Meulaboh hadirkan layanan paspor di Aceh Barat Daya",
+        "link": "https://www.antaranews.com/berita/5698968/imigrasi-meulaboh-hadirkan-layanan-paspor-di-aceh-barat-daya",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kantor Imigrasi Kelas II Non TPI Meulaboh, Aceh Barat menghadirkan layanan paspor bagi masyarakat di Kabupaten Aceh ...",
+        "published": "2026-08-17T16:01:15.000Z"
+      },
+      {
+        "title": "BGN tutup 1.300 SPPG dan evaluasi keracunan makanan",
+        "link": "https://www.antaranews.com/berita/5698967/bgn-tutup-1300-sppg-dan-evaluasi-keracunan-makanan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kepala Badan Gizi Nasional (BGN) Sudaryono menutup sebanyak 1.300 Satuan Pelayanan Pemenuhan Gizi (SPPG) yang tidak ...",
+        "published": "2026-08-17T16:00:22.000Z"
+      },
+      {
+        "title": "Jonatan buka jadwal Indonesia pada hari kedua Kejuaraan Dunia 2026",
+        "link": "https://www.antaranews.com/berita/5698965/jonatan-buka-jadwal-indonesia-pada-hari-kedua-kejuaraan-dunia-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tunggal putra Jonatan Christie akan membuka rangkaian pertandingan wakil Indonesia pada hari kedua Kejuaraan Dunia BWF ...",
+        "published": "2026-08-17T15:58:59.000Z"
+      },
+      {
+        "title": "Menteri ATR perluas layanan balik nama sertifikat tanah hanya 10 hari",
+        "link": "https://www.antaranews.com/berita/5698963/menteri-atr-perluas-layanan-balik-nama-sertifikat-tanah-hanya-10-hari",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid memperluas layanan balik nama ...",
+        "published": "2026-08-17T15:57:22.000Z"
+      },
+      {
+        "title": "Klopp merasa memperoleh sambutan hangat di timnas Jerman",
+        "link": "https://www.antaranews.com/berita/5698959/klopp-merasa-memperoleh-sambutan-hangat-di-timnas-jerman",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih Juergen Klopp merasa memperoleh sambutan hangat dari staf tim nasional Jerman.\n\nMantan pelatih Liverpool ...",
+        "published": "2026-08-17T15:56:21.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Emas vs tabungan bank: Mana yang lebih menguntungkan? Ini faktanya",
