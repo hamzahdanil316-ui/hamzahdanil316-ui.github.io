@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-18T13:41:05.519Z",
+  "updatedAt": "2026-08-18T14:31:56.590Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Meriahkan HUT RI, Terminal Kampung Rambutan gelar lomba tarik bus",
+        "link": "https://www.antaranews.com/berita/5700512/meriahkan-hut-ri-terminal-kampung-rambutan-gelar-lomba-tarik-bus",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Terminal Kampung Rambutan, Ciracas, Jakarta Timur (Jaktim) menggelar lomba tarik bus Antar Kota Antar Provinsi (AKAP) ...",
+        "published": "2026-08-18T14:30:21.000Z"
+      },
+      {
+        "title": "Menhut: Peringatan dini BMKG jadi tingkatkan antisipasi karhutla",
+        "link": "https://www.antaranews.com/berita/5700511/menhut-peringatan-dini-bmkg-jadi-tingkatkan-antisipasi-karhutla",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni menilai peringatan dini potensi El Nino 2026 Badan Meteorologi, ...",
+        "published": "2026-08-18T14:30:12.000Z"
+      },
+      {
+        "title": "Kuasa hukum eks Jampidsus sebut 5 aspek digugat di praperadilan",
+        "link": "https://www.antaranews.com/video/5700412/kuasa-hukum-eks-jampidsus-sebut-5-aspek-digugat-di-praperadilan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Kuasa hukum mantan Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Febrie Adriansyah, Febri Diansyah, ...",
+        "published": "2026-08-18T14:29:16.000Z"
+      },
+      {
+        "title": "BNN gagalkan penyelundupan 2,6 ton sabu cair dari kapal Tanzania",
+        "link": "https://www.antaranews.com/berita/5700508/bnn-gagalkan-penyelundupan-26-ton-sabu-cair-dari-kapal-tanzania",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Narkotika Nasional bersama Bea Cukai dan Polda Kepulauan Riau mengamankan kapal berbendera Tanzania yang diduga ...",
+        "published": "2026-08-18T14:28:24.000Z"
+      },
+      {
+        "title": "Pemkot Jakbar kenalkan gerakan \"Warga Cegah Kebakaran\" di Tambora",
+        "link": "https://www.antaranews.com/berita/5700507/pemkot-jakbar-kenalkan-gerakan-warga-cegah-kebakaran-di-tambora",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Kota Jakarta Barat (Pemkot Jakbar) mengenalkan gerakan \"Warga Cegah Kebakaran\" di Kecamatan ...",
+        "published": "2026-08-18T14:28:16.000Z"
+      },
+      {
+        "title": "Bea Cukai ungkap 32 kasus penyelundupan emas sepanjang 2026",
+        "link": "https://www.antaranews.com/video/5700285/bea-cukai-ungkap-32-kasus-penyelundupan-emas-sepanjang-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Direktorat Jenderal Bea dan Cukai mengungkap 32 kasus penyelundupan emas sejak Januari hingga Agustus 2026. ...",
+        "published": "2026-08-18T14:27:22.000Z"
+      },
+      {
+        "title": "Viral pengemudi Alphard hantam motor pakai batu di Bintaro, polisi turun tangan",
+        "link": "https://www.antaranews.com/berita/5700505/viral-pengemudi-alphard-hantam-motor-pakai-batu-di-bintaro-polisi-turun-tangan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kepolisian mendalami kasus pengemudi mobil Alphard memukul motor memakai batu diduga usai kecelakaan antar pengendara ...",
+        "published": "2026-08-18T14:25:04.000Z"
+      },
+      {
+        "title": "KPK duga aliran uang ke Bebizie bukan honor menyanyi",
+        "link": "https://www.antaranews.com/berita/5700504/kpk-duga-aliran-uang-ke-bebizie-bukan-honor-menyanyi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Komisi Pemberantasan Korupsi menduga aliran uang dari PT Bara Kumala Sakti kepada anggota DPRD DKI Jakarta Bebizie Sri ...",
+        "published": "2026-08-18T14:24:41.000Z"
+      },
+      {
+        "title": "Jamuan Rakyat digelar di sembilan titik di Jakarta Barat",
+        "link": "https://www.antaranews.com/berita/5700503/jamuan-rakyat-digelar-di-sembilan-titik-di-jakarta-barat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Rangkaian kegiatan Jamuan Rakyat dalam rangka memperingati HUT ke-81 Kemerdekaan Republik Indonesia berlangsung meriah ...",
+        "published": "2026-08-18T14:24:30.000Z"
+      },
+      {
+        "title": "Pacific Caesar Surabaya pertahankan Darren Vai Celosse",
+        "link": "https://www.antaranews.com/berita/5700500/pacific-caesar-surabaya-pertahankan-darren-vai-celosse",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pacific Caesar Surabaya mempertahankan guard Darren Vai Celosse guna memperkuat tim dalam menghadapi Indonesian ...",
+        "published": "2026-08-18T14:24:08.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Emas vs tabungan bank: Mana yang lebih menguntungkan? Ini faktanya",
