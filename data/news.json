@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-19T14:32:09.851Z",
+  "updatedAt": "2026-08-19T15:29:35.647Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "21 atlet speed bersaing pada kompetisi mini pelatnas panjat tebing",
+        "link": "https://www.antaranews.com/berita/5702441/21-atlet-speed-bersaing-pada-kompetisi-mini-pelatnas-panjat-tebing",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sebanyak 21 atlet panjat tebing disiplin bersaing pada nomor speed Kompetisi Mini Pelatnas Asian Games 2026 ...",
+        "published": "2026-08-19T15:28:20.000Z"
+      },
+      {
+        "title": "Thalita anggap duel dengan An Se Young tolok ukur pembenahan",
+        "link": "https://www.antaranews.com/berita/5702440/thalita-anggap-duel-dengan-an-se-young-tolok-ukur-pembenahan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tunggal putri Indonesia Thalita Ramadhani Wiryawan menganggap pengalaman menghadapi An Se Young sebagai tolok ukur ...",
+        "published": "2026-08-19T15:25:52.000Z"
+      },
+      {
+        "title": "Kemenhut selidiki karhutla di kawasan hutan produksi di Sumsel",
+        "link": "https://www.antaranews.com/berita/5702437/kemenhut-selidiki-karhutla-di-kawasan-hutan-produksi-di-sumsel",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Kehutanan (Kemenhut) menyelidiki kebakaran hutan dan lahan (karhutla) di lahan seluas 25 hektare kawasan ...",
+        "published": "2026-08-19T15:25:50.000Z"
+      },
+      {
+        "title": "NATO siap hadapi ancaman setelah Iran dikabarkan bidik aset AS",
+        "link": "https://www.antaranews.com/berita/5702425/nato-siap-hadapi-ancaman-setelah-iran-dikabarkan-bidik-aset-as",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pakta Pertahanan Atlantik Utara (NATO), Rabu, menyatakan siap menghadapi setiap ancaman di tengah laporan bahwa ...",
+        "published": "2026-08-19T15:23:56.000Z"
+      },
+      {
+        "title": "BPBD Medan catat 115 unit rumah rusak akibat cuaca ekstrem",
+        "link": "https://www.antaranews.com/berita/5702421/bpbd-medan-catat-115-unit-rumah-rusak-akibat-cuaca-ekstrem",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Penanggulangan Bencana Daerah (BPBD) Kota Medan, Sumatera Utara (Sumut) mencatat sedikitnya 115 unit rumah ...",
+        "published": "2026-08-19T15:23:34.000Z"
+      },
+      {
+        "title": "Antara Banten bagikan ribuan masker di wilayah rawan ISPA Bojonegara",
+        "link": "https://www.antaranews.com/video/5702347/antara-banten-bagikan-ribuan-masker-di-wilayah-rawan-ispa-bojonegara",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Dalam rangka HUT RI ke-81, Lembaga Kantor Berita Nasional (LKBN) Antara Biro Banten, Rabu (19/8), melaksanakan ...",
+        "published": "2026-08-19T15:22:32.000Z"
+      },
+      {
+        "title": "Jay Idzes dilaporkan pulih, segera dapat duet baru di Sassuolo",
+        "link": "https://www.antaranews.com/berita/5702417/jay-idzes-dilaporkan-pulih-segera-dapat-duet-baru-di-sassuolo",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kapten yang juga bek tim nasional Indonesia Jay Idzes dilaporkan pulih dari cedera dan segera mendapatkan duet ...",
+        "published": "2026-08-19T15:22:28.000Z"
+      },
+      {
+        "title": "Menekraf: Modifikasi sudah masuk dalam ekosistem ekonomi kreatif",
+        "link": "https://www.antaranews.com/berita/5702413/menekraf-modifikasi-sudah-masuk-dalam-ekosistem-ekonomi-kreatif",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Ekonomi Kreatif/Kepala Badan Ekonomi Kreatif Teuku Riefky Harsya mengatakan industri modifikasi Indonesia ...",
+        "published": "2026-08-19T15:21:25.000Z"
+      },
+      {
+        "title": "Manchester United jajaki transfer Carlos Baleba dari Brighton",
+        "link": "https://www.antaranews.com/berita/5702411/manchester-united-jajaki-transfer-carlos-baleba-dari-brighton",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Manchester United menjajaki transfer gelandang Brighton Carlos Baleba setelah terbuka kemungkinan melepas sang pemain ...",
+        "published": "2026-08-19T15:21:17.000Z"
+      },
+      {
+        "title": "Kepala BMKG: Gempa susulan di Flores diperkirakan meluruh 3-4 minggu",
+        "link": "https://www.antaranews.com/berita/5702407/kepala-bmkg-gempa-susulan-di-flores-diperkirakan-meluruh-3-4-minggu",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperkirakan aktivitas gempa susulan pascagempa bermagnitudo 7,7 ...",
+        "published": "2026-08-19T15:21:07.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "JHT BPJS Ketenagakerjaan bisa cair tanpa resign, ini syaratnya",
