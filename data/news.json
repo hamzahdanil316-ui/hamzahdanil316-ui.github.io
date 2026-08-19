@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-19T01:10:26.505Z",
+  "updatedAt": "2026-08-19T02:55:58.159Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Penjualan mobil China di Indonesia naik 82 persen di semester 1 2026",
+        "link": "https://otomotif.antaranews.com/berita/5700893/penjualan-mobil-china-di-indonesia-naik-82-persen-di-semester-1-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Penjualan mobil merek China secara kumulatif di Indonesia terus meningkat. Penjualan grosir (wholesale) sepanjang ...",
+        "published": "2026-08-19T02:54:13.000Z"
+      },
+      {
+        "title": "Barantin musnahkan 3,6 ton daging ilegal di Pelabuhan Merak",
+        "link": "https://www.antaranews.com/berita/5700889/barantin-musnahkan-36-ton-daging-ilegal-di-pelabuhan-merak",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Karantina Indonesia (Barantin) melalui Balai Karantina Hewan, Ikan, dan Tumbuhan (Karantina) Banten menggagalkan ...",
+        "published": "2026-08-19T02:53:37.000Z"
+      },
+      {
+        "title": "Brimob Polda Metro Jaya gagalkan tawuran di Cipayung, Jaktim",
+        "link": "https://www.antaranews.com/berita/5700885/brimob-polda-metro-jaya-gagalkan-tawuran-di-cipayung-jaktim",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim Patroli Gabungan Batalyon B Pelopor Satbrimob Polda Metro Jaya bersama Tim Perintis Presisi Polres Metro Jakarta ...",
+        "published": "2026-08-19T02:52:58.000Z"
+      },
+      {
+        "title": "Dokter: Miom dapat ditangani melalui operasi tanpa angkat rahim",
+        "link": "https://www.antaranews.com/berita/5700883/dokter-miom-dapat-ditangani-melalui-operasi-tanpa-angkat-rahim",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Spesialis Kebidanan dan Kandungan Eka Hospital MT Haryono dr. Sita Ayu Arumi mengatakan bahwa pada kondisi ...",
+        "published": "2026-08-19T02:51:43.000Z"
+      },
+      {
+        "title": "Menembus Ombak, Mantri BRI Hadirkan Layanan Perbankan di Kepulauan Maluku Utara",
+        "link": "https://www.antaranews.com/berita/5700879/menembus-ombak-mantri-bri-hadirkan-layanan-perbankan-di-kepulauan-maluku-utara",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Di gugusan kepulauan Maluku Utara, laut menjadi penghubung utama antarpulau. Namun, ketika ombak meninggi dan angin ...",
+        "published": "2026-08-19T02:47:51.000Z"
+      },
+      {
+        "title": "Dampak konsumsi jukut goreng bagi kesehatan tubuh",
+        "link": "https://www.antaranews.com/berita/5700876/dampak-konsumsi-jukut-goreng-bagi-kesehatan-tubuh",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Jukut goreng merupakan salah satu olahan sayuran yang populer dalam hidangan khas Sunda. Meski bahan dasarnya ...",
+        "published": "2026-08-19T02:47:02.000Z"
+      },
+      {
+        "title": "BMKG: Waspada kualitas udara di Banjarbaru kategori sangat tidak sehat",
+        "link": "https://www.antaranews.com/berita/5700873/bmkg-waspada-kualitas-udara-di-banjarbaru-kategori-sangat-tidak-sehat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengingatkan masyarakat agar mewaspadai kualitas udara di ...",
+        "published": "2026-08-19T02:46:35.000Z"
+      },
+      {
+        "title": "BI-Rate diprediksi bertahan di level 5,75 persen pada RDG Agustus 2026",
+        "link": "https://www.antaranews.com/berita/5700871/bi-rate-diprediksi-bertahan-di-level-575-persen-pada-rdg-agustus-2026",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Permata Institute for Economic Research (PIER) memproyeksikan Bank Indonesia (BI) akan mempertahankan suku bunga acuan ...",
+        "published": "2026-08-19T02:43:29.000Z"
+      },
+      {
+        "title": "Pengamat: Langkah cepat Polri tangani gempa NTT cerminkan Astacita",
+        "link": "https://www.antaranews.com/berita/5700869/pengamat-langkah-cepat-polri-tangani-gempa-ntt-cerminkan-astacita",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pengamat politik dan hukum senior Boni Hargens menilai langkah cepat Kepolisian Negara Republik Indonesia (Polri) dalam ...",
+        "published": "2026-08-19T02:43:22.000Z"
+      },
+      {
+        "title": "IHSG Rabu dibuka melemah 41,65 poin ke posisi 6.408",
+        "link": "https://www.antaranews.com/berita/5700865/ihsg-rabu-dibuka-melemah-4165-poin-ke-posisi-6408",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Rabu pagi dibuka melemah 41,65 poin atau 0,65 persen ...",
+        "published": "2026-08-19T02:42:46.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Emas vs tabungan bank: Mana yang lebih menguntungkan? Ini faktanya",
