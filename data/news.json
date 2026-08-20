@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-20T02:55:15.424Z",
+  "updatedAt": "2026-08-20T03:45:47.514Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "\"Harusnya Horror\" lebih kuat jika hadir sebagai film pendek",
+        "link": "https://www.antaranews.com/berita/5702847/harusnya-horror-lebih-kuat-jika-hadir-sebagai-film-pendek",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Membawa karya yang lahir dari ekosistem kreator internet ke bioskop bukan sekadar memindahkan wajah dan gaya hiburan ...",
+        "published": "2026-08-20T03:43:41.000Z"
+      },
+      {
+        "title": "Pemkot Batam siapkan pembangunan 3 jalan lingkar perkuat konektivitas",
+        "link": "https://www.antaranews.com/berita/5702843/pemkot-batam-siapkan-pembangunan-3-jalan-lingkar-perkuat-konektivitas",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Kota (Pemkot) Batam, Kepulauan Riau (Kepri) menyiapkan pembangunan infrastruktur tiga jalan lingkar sebagai ...",
+        "published": "2026-08-20T03:43:15.000Z"
+      },
+      {
+        "title": "Rusia akan gelar pemilu parlemen di tengah 'perang hibrida' Barat",
+        "link": "https://www.antaranews.com/berita/5702841/rusia-akan-gelar-pemilu-parlemen-di-tengah-perang-hibrida-barat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemilihan parlemen Rusia yang akan digelar pada September harus berlangsung di tengah “perang hibrida” ...",
+        "published": "2026-08-20T03:43:04.000Z"
+      },
+      {
+        "title": "Prodigy Technovations Hadirkan Exerciser dan Analyzer Protokol UFS 5.0 Pertama di Industri untuk Mendorong Era Penyimpanan Berbasis AI",
+        "link": "https://www.antaranews.com/berita/5702837/prodigy-technovations-hadirkan-exerciser-dan-analyzer-protokol-ufs-50-pertama-di-industri-untuk-mendorong-era-penyimpanan-berbasis-ai",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Prodigy Technovations Pvt. Ltd, perusahaan terkemuka dalam solusi analisis protokol, dengan bangga mengumumkan ...",
+        "published": "2026-08-20T03:42:47.000Z"
+      },
+      {
+        "title": "Gibran ke NTT, libatkan mahasiswa UI bantu trauma healing korban gempa",
+        "link": "https://www.antaranews.com/berita/5702835/gibran-ke-ntt-libatkan-mahasiswa-ui-bantu-trauma-healing-korban-gempa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Wakil Presiden Gibran Rakabuming Raka bersama perwakilan mahasiswa Fakultas Psikologi Universitas Indonesia bertolak ...",
+        "published": "2026-08-20T03:42:11.000Z"
+      },
+      {
+        "title": "Polda Metro Jaya amankan lima pemuda yang diduga hendak balap liar di Jaktim",
+        "link": "https://www.antaranews.com/berita/5702833/polda-metro-jaya-amankan-lima-pemuda-yang-diduga-hendak-balap-liar-di-jaktim",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim Patroli Gabungan Brimob Batalyon B Pelopor Sat Brimob Polda Metro Jaya bersama Perintis Presisi Polres Metro ...",
+        "published": "2026-08-20T03:39:48.000Z"
+      },
+      {
+        "title": "IEE Series 2026 Perkuat Kolaborasi Industri dan Ketahanan Bencana",
+        "link": "https://www.antaranews.com/berita/5702829/iee-series-2026-perkuat-kolaborasi-industri-dan-ketahanan-bencana",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Jakarta (ANTARA) — Indonesia Energy & Engineering (IEE) Series 2026 menjadi wadah kolaborasi antara pelaku ...",
+        "published": "2026-08-20T03:39:32.000Z"
+      },
+      {
+        "title": "Analis: Rupiah berpeluang menguat, dolar AS tertekan buyback obligasi",
+        "link": "https://www.antaranews.com/berita/5702828/analis-rupiah-berpeluang-menguat-dolar-as-tertekan-buyback-obligasi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Nilai tukar rupiah terhadap dolar AS pada pembukaan perdagangan Kamis menguat 30 poin atau 0,17 persen menjadi Rp17.810 ...",
+        "published": "2026-08-20T03:33:26.000Z"
+      },
+      {
+        "title": "PDAM Dompu mulai pulih, benahi pelanggan tekan piutang Rp38 miliar",
+        "link": "https://www.antaranews.com/berita/5702827/pdam-dompu-mulai-pulih-benahi-pelanggan-tekan-piutang-rp38-miliar",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Perusahaan Umum Daerah Air Minum (Perumda) Tirta Rora Dompu, Nusa Tenggara Barat, memulihkan kinerja keuangan dan ...",
+        "published": "2026-08-20T03:29:39.000Z"
+      },
+      {
+        "title": "Sudin KPKP Jaktim vaksinasi 1.600 hewan wujudkan Jakarta bebas rabies",
+        "link": "https://www.antaranews.com/berita/5702824/sudin-kpkp-jaktim-vaksinasi-1600-hewan-wujudkan-jakarta-bebas-rabies",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Suku Dinas Ketahanan Pangan, Kelautan dan Pertanian (Sudin KPKP) Jakarta Timur (Jaktim) telah melakukan vaksinasi ...",
+        "published": "2026-08-20T03:25:08.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "JHT BPJS Ketenagakerjaan bisa cair tanpa resign, ini syaratnya",
