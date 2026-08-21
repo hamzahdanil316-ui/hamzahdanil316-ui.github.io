@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-21T09:35:01.554Z",
+  "updatedAt": "2026-08-21T10:28:44.227Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Iran: AS berupaya hindari tanggung jawab serangan maut ke SD Minab",
+        "link": "https://www.antaranews.com/berita/5705359/iran-as-berupaya-hindari-tanggung-jawab-serangan-maut-ke-sd-minab",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Serangan Amerika Serikat terhadap sebuah sekolah dasar untuk anak perempuan di Minab telah dikonfirmasi, tetapi ...",
+        "published": "2026-08-21T10:27:32.000Z"
+      },
+      {
+        "title": "Polda Riau libatkan lima ahli sidik kebakaran lahan di Bengkalis",
+        "link": "https://www.antaranews.com/berita/5705357/polda-riau-libatkan-lima-ahli-sidik-kebakaran-lahan-di-bengkalis",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktorat Reserse Kriminal Khusus Kepolisian Daerah Riau melibatkan lima ahli dari berbagai bidang dalam penyidikan ...",
+        "published": "2026-08-21T10:27:18.000Z"
+      },
+      {
+        "title": "Kemenhut usut penerima hingga pemasok kayu ilegal TN Bukit Tigapuluh",
+        "link": "https://www.antaranews.com/berita/5705353/kemenhut-usut-penerima-hingga-pemasok-kayu-ilegal-tn-bukit-tigapuluh",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Balai Penegakan Hukum (Gakkum) Kehutanan Wilayah Sumatera, Direktorat Jenderal Gakkum Kehutanan, Kementerian Kehutanan ...",
+        "published": "2026-08-21T10:25:07.000Z"
+      },
+      {
+        "title": "Anthony Susanto sapu bersih fase grup UTR PTT Bali",
+        "link": "https://www.antaranews.com/berita/5705352/anthony-susanto-sapu-bersih-fase-grup-utr-ptt-bali",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Anthony Susanto melaju ke semifinal Universal Tennis Rating Pro Tennis Tour (UTR PTT) Amman Men's World Tennis ...",
+        "published": "2026-08-21T10:24:00.000Z"
+      },
+      {
+        "title": "Polda Papua Tengah kerahkan personel cegah karhutla meluas di Nabire",
+        "link": "https://www.antaranews.com/berita/5705349/polda-papua-tengah-kerahkan-personel-cegah-karhutla-meluas-di-nabire",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polda Papua Tengah mengerahkan personel gabungan bersama Satuan Brimob untuk menangani kebakaran hutan dan lahan ...",
+        "published": "2026-08-21T10:23:58.000Z"
+      },
+      {
+        "title": "Toyota luruskan kabar penjualan dari GR GT",
+        "link": "https://otomotif.antaranews.com/berita/5705347/toyota-luruskan-kabar-penjualan-dari-gr-gt",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pabrikan otomotif asal Jepang, Toyota meluruskan kabar mengenai penjualan GR GT yang sebelumnya disebut telah ...",
+        "published": "2026-08-21T10:23:37.000Z"
+      },
+      {
+        "title": "Kemenag latih siswa jadi edukator sebaya cegah pernikahan anak",
+        "link": "https://www.antaranews.com/berita/5705344/kemenag-latih-siswa-jadi-edukator-sebaya-cegah-pernikahan-anak",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktorat Jenderal Bimbingan Masyarakat Islam Kementerian Agama melatih ratusan siswa madrasah dan sekolah menjadi ...",
+        "published": "2026-08-21T10:22:32.000Z"
+      },
+      {
+        "title": "TASPEN sediakan layanan unduh bukti potong pajak melalui TOS TASPEN",
+        "link": "https://www.antaranews.com/berita/5705340/taspen-sediakan-layanan-unduh-bukti-potong-pajak-melalui-tos-taspen",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT TASPEN (Persero) menyediakan layanan pengunduhan Bukti Potong Pajak Penghasilan (PPh) Pasal 21 melalui platform TOS ...",
+        "published": "2026-08-21T10:21:42.000Z"
+      },
+      {
+        "title": "Jenazah pria tanpa identitas ditemukan mengapung di Teluk Kendari",
+        "link": "https://www.antaranews.com/berita/5705339/jenazah-pria-tanpa-identitas-ditemukan-mengapung-di-teluk-kendari",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Satuan Reserse Kriminal (Satreskrim) Polresta Kendari menyelidiki penemuan jenazah pria tanpa identitas di kawasan ...",
+        "published": "2026-08-21T10:21:20.000Z"
+      },
+      {
+        "title": "Pemprov usulkan minyak nilam Aceh jadi komoditas sistem resi gudang",
+        "link": "https://www.antaranews.com/berita/5705337/pemprov-usulkan-minyak-nilam-aceh-jadi-komoditas-sistem-resi-gudang",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Aceh mengusulkan penetapan minyak nilam Aceh sebagai komoditas sistem resi gudang (SRG) kepada Badan ...",
+        "published": "2026-08-21T10:20:31.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "JHT BPJS Ketenagakerjaan bisa cair tanpa resign, ini syaratnya",
