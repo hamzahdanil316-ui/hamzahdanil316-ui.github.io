@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-22T22:20:05.014Z",
+  "updatedAt": "2026-08-22T23:19:29.837Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Forum ulama satukan komitmen tolak politik uang di Muktamar ke-35 NU",
+        "link": "https://www.antaranews.com/berita/5707249/forum-ulama-satukan-komitmen-tolak-politik-uang-di-muktamar-ke-35-nu",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Forum Ulama Nahdliyyin (FUN) bersama sejumlah pengurus syuriyah dan tanfidziyah serta pengasuh pesantren menyerukan ...",
+        "published": "2026-08-22T23:11:38.000Z"
+      },
+      {
+        "title": "KASAL dan Gubernur Kalsel tinjau karhutla di Bandara Syamsudin Noor",
+        "link": "https://www.antaranews.com/video/5707240/kasal-dan-gubernur-kalsel-tinjau-karhutla-di-bandara-syamsudin-noor",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Kepala Staf TNI Angkatan Laut (Kasal), Laksamana TNI Muhammad Ali, bersama Gubernur Kalimantan Selatan, ...",
+        "published": "2026-08-22T23:05:30.000Z"
+      },
+      {
+        "title": "Kisah GM Pelindo Maumere selamatkan korban gempa jatuh ke laut. ",
+        "link": "https://www.antaranews.com/berita/5707245/kisah-gm-pelindo-maumere-selamatkan-korban-gempa-jatuh-ke-laut",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gempa bumi magnitudo 7,7 yang berpusat di Mbay, Kabupaten Nagekeo, pada Sabtu (15/8) menjadi peristiwa kelam yang sulit ...",
+        "published": "2026-08-22T23:00:20.000Z"
+      },
+      {
+        "title": "Motor listrik nasional karya anak negeri",
+        "link": "https://otomotif.antaranews.com/infografik/5706856/motor-listrik-nasional-karya-anak-negeri",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Prabowo Subianto meluncurkan motor listrik nasional (Molinas) Cakra NX1 buatan dalam negeri, Kamis (13/8). ...",
+        "published": "2026-08-22T23:00:00.000Z"
+      },
+      {
+        "title": "Wagub Sumut minta Karang Taruna jalankan organisasi hingga ke desa",
+        "link": "https://www.antaranews.com/berita/5707243/wagub-sumut-minta-karang-taruna-jalankan-organisasi-hingga-ke-desa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Wakil Gubernur (Wagub) Sumatera Utara (Sumut) Surya meminta kepengurusan baru Karang Taruna Sumut menjalankan peran ...",
+        "published": "2026-08-22T22:59:56.000Z"
+      },
+      {
+        "title": "Mourinho awali periode kedua di Madrid dengan kalahkan Espanyol 2-1",
+        "link": "https://www.antaranews.com/berita/5707237/mourinho-awali-periode-kedua-di-madrid-dengan-kalahkan-espanyol-2-1",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Jose Mourinho mengawali periode kedua sebagai pelatih Real Madrid dengan kemenangan 2-1 atas Espanyol  pada pekan ...",
+        "published": "2026-08-22T22:41:44.000Z"
+      },
+      {
+        "title": "Menteri LH: 85.000 hektare wilayah konsesi terbakar di Indonesia",
+        "link": "https://www.antaranews.com/video/5707235/menteri-lh-85000-hektare-wilayah-konsesi-terbakar-di-indonesia",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Menteri Lingkungan Hidup Jumhur Hidayat menyebut sekitar 85 ribu hektare kawasan konsesi perusahaan di ...",
+        "published": "2026-08-22T22:40:07.000Z"
+      },
+      {
+        "title": "Penanganan jalan amblas di Aceh Tenggara capai 50 persen",
+        "link": "https://www.antaranews.com/video/5707227/penanganan-jalan-amblas-di-aceh-tenggara-capai-50-persen",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Melalui program tanggap darurat, Balai Pelaksanaan Jalan Nasional (BPJN) Aceh, membangun jalan dan Dinding ...",
+        "published": "2026-08-22T22:35:57.000Z"
+      },
+      {
+        "title": "Kampung adat Sade di Lombok Tengah terbakar",
+        "link": "https://www.antaranews.com/video/5707208/kampung-adat-sade-di-lombok-tengah-terbakar",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Kampung adat suku Sasak, Desa Sade, Lombok Tengah, Nusa Tenggara Barat, terbakar pada Sabtu (22/8) ...",
+        "published": "2026-08-22T22:35:11.000Z"
+      },
+      {
+        "title": "Pemprov DKI dorong penguatan ekosistem musik untuk perkuat daya saing",
+        "link": "https://www.antaranews.com/berita/5707231/pemprov-dki-dorong-penguatan-ekosistem-musik-untuk-perkuat-daya-saing",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Provinsi (Pemprov) DKI Jakarta mendorong penguatan ekosistem musik sebagai bagian dari strategi memperkuat ...",
+        "published": "2026-08-22T22:22:45.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "JHT BPJS Ketenagakerjaan bisa cair tanpa resign, ini syaratnya",
