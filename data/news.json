@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-08-22T17:19:21.411Z",
+  "updatedAt": "2026-08-22T18:28:18.645Z",
   "categories": {
     "nasional": [
+      {
+        "title": "Sebanyak 81 personel padamkan kebakaran di Kebayoran Baru Jakarta",
+        "link": "https://www.antaranews.com/berita/5707172/sebanyak-81-personel-padamkan-kebakaran-di-kebayoran-baru-jakarta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sebanyak 81 personel pemadam kebakaran dikerahkan untuk menangani kebakaran sebuah rumah tinggal di Jalan Hidup Baru, ...",
+        "published": "2026-08-22T18:25:26.000Z"
+      },
+      {
+        "title": "Pemprov Kalsel dan GAPKI bagikan 20.000 masker tangani dampak karhutla",
+        "link": "https://www.antaranews.com/berita/5707168/pemprov-kalsel-dan-gapki-bagikan-20000-masker-tangani-dampak-karhutla",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Provinsi Kalimantan Selatan bersama Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI) menyalurkan 20.000 ...",
+        "published": "2026-08-22T18:19:03.000Z"
+      },
+      {
+        "title": "Menlu China Wang Yi bertemu Luhut Panjaitan bicarakan investasi",
+        "link": "https://www.antaranews.com/berita/5707167/menlu-china-wang-yi-bertemu-luhut-panjaitan-bicarakan-investasi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Luar Negeri (Menlu) China Wang Yi bertemu dengan Ketua Dewan Ekonomi Nasional (DEN) RI Luhut Binsar Panjaitan ...",
+        "published": "2026-08-22T18:18:28.000Z"
+      },
+      {
+        "title": "Guangdong bidik potensi industri sepeda motor listrik di Indonesia",
+        "link": "https://otomotif.antaranews.com/berita/5707163/guangdong-bidik-potensi-industri-sepeda-motor-listrik-di-indonesia",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Guangdong, China, membidik potensi besar elektrifikasi sekitar 140 juta sepeda motor di Indonesia dengan mendorong ...",
+        "published": "2026-08-22T18:13:20.000Z"
+      },
+      {
+        "title": "Lima mahasiswa S-1 UI menembus program geosains dunia di Houston",
+        "link": "https://www.antaranews.com/berita/5707160/lima-mahasiswa-s-1-ui-menembus-program-geosains-dunia-di-houston",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Lima mahasiswa S-1 Universitas Indonesia (UI) menjadi satu-satunya tim beranggotakan mahasiswa sarjana dalam program ...",
+        "published": "2026-08-22T18:09:08.000Z"
+      },
+      {
+        "title": "Gempa magnitudo 4,8 guncang wilayah perairan Manggarai, NTT",
+        "link": "https://www.antaranews.com/berita/5707156/gempa-magnitudo-48-guncang-wilayah-perairan-manggarai-ntt",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gempa bumi dengan magnitudo 4,8 mengguncang wilayah perairan yang berjarak 84 kilometer timur laut Ruteng, Kabupaten ...",
+        "published": "2026-08-22T17:58:49.000Z"
+      },
+      {
+        "title": "Gubernur Sumut dukung enam BUMD meningkatkan kinerja dan kontribusi",
+        "link": "https://www.antaranews.com/berita/5707152/gubernur-sumut-dukung-enam-bumd-meningkatkan-kinerja-dan-kontribusi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur Sumatera Utara (Sumut) Bobby Nasution mendukung sebanyak enam badan usaha milik daerah (BUMD) pemerintah ...",
+        "published": "2026-08-22T17:58:35.000Z"
+      },
+      {
+        "title": "Damkartan gabungan padamkan kebakaran rumah adat Sade di Lombok NTB",
+        "link": "https://www.antaranews.com/berita/5707151/damkartan-gabungan-padamkan-kebakaran-rumah-adat-sade-di-lombok-ntb",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sejumlah mobil pemadam kebakaran dan penyelamatan (Damkartan) gabungan dikerahkan untuk memadamkan kebakaran yang ...",
+        "published": "2026-08-22T17:39:38.000Z"
+      },
+      {
+        "title": "Warga mengungsi akibat asap dan karhutla di Syamsudin Noor Banjarbaru",
+        "link": "https://www.antaranews.com/berita/5707147/warga-mengungsi-akibat-asap-dan-karhutla-di-syamsudin-noor-banjarbaru",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sejumlah warga Kompleks Aeropolis 1, Kelurahan Syamsudin Noor, Kota Banjarbaru, Kalimantan Selatan, mengungsi sementara ...",
+        "published": "2026-08-22T17:28:28.000Z"
+      },
       {
         "title": "Kemenko: Istilah \"emas bawah bantal\" metafora kepemilikan masyarakat",
         "link": "https://www.antaranews.com/berita/5707145/kemenko-istilah-emas-bawah-bantal-metafora-kepemilikan-masyarakat",
         "source": "Berita Terkini - ANTARA News",
         "summary": "Pemerintah meluruskan pemberitaan soal istilah “emas di bawah bantal” yang merujuk pada potensi kepemilikan ...",
         "published": "2026-08-22T17:14:33.000Z"
-      },
-      {
-        "title": "PM Malaysia kirim surat ke Presiden RI, minta bantuan kasus investasi",
-        "link": "https://www.antaranews.com/berita/5707143/pm-malaysia-kirim-surat-ke-presiden-ri-minta-bantuan-kasus-investasi",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Perdana Menteri Malaysia Anwar Ibrahim menyatakan telah mengirimkan surat kepada Presiden RI Prabowo Subianto, untuk ...",
-        "published": "2026-08-22T17:02:56.000Z"
-      },
-      {
-        "title": "Pangdam XIV/Hsn terus bangun jembatan perintis demi pemerataan",
-        "link": "https://www.antaranews.com/berita/5707141/pangdam-xiv-hsn-terus-bangun-jembatan-perintis-demi-pemerataan",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Panglima Kodam XIV/Hasanuddin Mayjen TNI Bangun Nawoko terus menyelesaikan pembangunan jembatan perintis untuk ...",
-        "published": "2026-08-22T17:00:40.000Z"
-      },
-      {
-        "title": "PU perkuat layanan air minum untuk 2.623 pengungsi di Reok, NTT",
-        "link": "https://www.antaranews.com/berita/5707140/pu-perkuat-layanan-air-minum-untuk-2623-pengungsi-di-reok-ntt",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Kementerian Pekerjaan Umum (PU) memperkuat dukungan penyediaan air minum dan sanitasi bagi 2.623 masyarakat terdampak ...",
-        "published": "2026-08-22T16:57:19.000Z"
-      },
-      {
-        "title": "Bapanas: Distribusi 1,65 juta ton CBP upaya kendalikan harga beras",
-        "link": "https://www.antaranews.com/berita/5707137/bapanas-distribusi-165-juta-ton-cbp-upaya-kendalikan-harga-beras",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Badan Pangan Nasional (Bapanas) menyatakan penyaluran 1,65 juta ton cadangan beras pemerintah (CBP) periode ...",
-        "published": "2026-08-22T16:49:33.000Z"
-      },
-      {
-        "title": "Rumah adat Sade di Lombok Tengah terbakar",
-        "link": "https://www.antaranews.com/berita/5707136/rumah-adat-sade-di-lombok-tengah-terbakar",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Rumah kampung adat wisata Sade Desa Rambitan, Kecamatan Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat (NTB) ...",
-        "published": "2026-08-22T16:47:30.000Z"
-      },
-      {
-        "title": "Jalan layang Bomang buka akses Bojonggede-Parung langsung ke Cibinong",
-        "link": "https://www.antaranews.com/berita/5707132/jalan-layang-bomang-buka-akses-bojonggede-parung-langsung-ke-cibinong",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Pemerintah Kabupaten Bogor, Jawa Barat, menyiapkan pembangunan jalan layang Bojonggede-Kemang (Bomang) untuk ...",
-        "published": "2026-08-22T16:46:21.000Z"
-      },
-      {
-        "title": "Kementerian PU menangani sebanyak 1.229 lokasi kekeringan",
-        "link": "https://www.antaranews.com/berita/5707129/kementerian-pu-menangani-sebanyak-1229-lokasi-kekeringan",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Kementerian Pekerjaan Umum (PU) menangani sebanyak 1.229 lokasi kekeringan mencakup sektor pertanian, permukiman, ...",
-        "published": "2026-08-22T16:33:13.000Z"
-      },
-      {
-        "title": "BNPB: 954 ton bantuan logistik telah disalurkan untuk korban gempa NTT",
-        "link": "https://www.antaranews.com/video/5707108/bnpb-954-ton-bantuan-logistik-telah-disalurkan-untuk-korban-gempa-ntt",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "ANTARA - Badan Nasional Penanggulangan Bencana (BNPB), Sabtu (22/8) mencatat distribusi bantuan logistik kepada ...",
-        "published": "2026-08-22T16:32:39.000Z"
-      },
-      {
-        "title": "Kodim 0907 Tarakan bantu padamkan karhutla 4 hektare di Tarakan Timur",
-        "link": "https://www.antaranews.com/video/5707081/kodim-0907-tarakan-bantu-padamkan-karhutla-4-hektare-di-tarakan-timur",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "ANTARA - Kodim 0907/Tarakan mengerahkan personel dan armada pemadam untuk membantu memadamkan kebakaran lahan kosong ...",
-        "published": "2026-08-22T16:29:26.000Z"
       }
     ],
     "ekonomi": [
