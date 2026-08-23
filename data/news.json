@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-23T08:28:04.995Z",
+  "updatedAt": "2026-08-23T09:26:12.423Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Kepala BGN siap copot pelanggar SOP program MBG",
+        "link": "https://www.antaranews.com/berita/5707729/kepala-bgn-siap-copot-pelanggar-sop-program-mbg",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kepala Badan Gizi Nasional Sudaryono menegaskan pihaknya tidak segan mencopot pihak yang terbukti melanggar SOP dan ...",
+        "published": "2026-08-23T09:16:25.000Z"
+      },
+      {
+        "title": "Nilai transaksi UMKM Sulsel di Pameran KKI 2026 mencapai Rp380,75 juta",
+        "link": "https://www.antaranews.com/berita/5707725/nilai-transaksi-umkm-sulsel-di-pameran-kki-2026-mencapai-rp38075-juta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Nilai transaksi produk usaha mikro kecil dan menengah (UMKM) asal Sulawesi Selatan pada ajang Pameran ...",
+        "published": "2026-08-23T09:15:19.000Z"
+      },
+      {
+        "title": "Maybank Marathon 2027 berpotensi digelar dua hari",
+        "link": "https://www.antaranews.com/berita/5707724/maybank-marathon-2027-berpotensi-digelar-dua-hari",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Project Director Maybank Marathon Bambang Irawan mengatakan Maybank Marathon 2027 berpeluang digelar selama dua hari, ...",
+        "published": "2026-08-23T09:13:36.000Z"
+      },
+      {
+        "title": "Dari Taiwan ke Indonesia, mengubah pengalaman jadi modal SDM",
+        "link": "https://www.antaranews.com/berita/5707720/dari-taiwan-ke-indonesia-mengubah-pengalaman-jadi-modal-sdm",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bagi sebagian pekerja migran Indonesia, kepulangan dari Taiwan bukan akhir perjalanan mencari penghidupan. Pengalaman ...",
+        "published": "2026-08-23T09:08:38.000Z"
+      },
+      {
+        "title": "Zamorani menang angka atas Peres demi pertahankan sabuk WBC",
+        "link": "https://www.antaranews.com/berita/5707716/zamorani-menang-angka-atas-peres-demi-pertahankan-sabuk-wbc",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Juara dunia kelas atom putri (46,2 kg) World Boxing Council (WBC) Camila Zamorano mengatasi Perla Perez dengan ...",
+        "published": "2026-08-23T09:05:38.000Z"
+      },
+      {
+        "title": "Surya Paloh tunda peresmian kantor NasDem Kalbar karena kabut asap",
+        "link": "https://www.antaranews.com/berita/5707712/surya-paloh-tunda-peresmian-kantor-nasdem-kalbar-karena-kabut-asap",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ketua Umum Partai NasDem Surya Paloh menunda peresmian kantor DPW Partai NasDem Kalimantan Barat di Pontianak akibat ...",
+        "published": "2026-08-23T09:04:42.000Z"
+      },
+      {
+        "title": "Kemenpar sebut aktivitas wisata di Labuan Bajo utamakan keselamatan",
+        "link": "https://www.antaranews.com/berita/5707707/kemenpar-sebut-aktivitas-wisata-di-labuan-bajo-utamakan-keselamatan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Pariwisata menyebut aktivitas kepariwisataan di Labuan Bajo, Kabupaten Manggarai Barat, Nusa Tenggara Timur ...",
+        "published": "2026-08-23T08:59:07.000Z"
+      },
+      {
+        "title": "Kemenag ajak 1.781.945 umat berselawat untuk negeri sambut Rabiulawal",
+        "link": "https://www.antaranews.com/berita/5707705/kemenag-ajak-1781945-umat-berselawat-untuk-negeri-sambut-rabiulawal",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Agama menargetkan keterlibatan 1.781.945 peserta dari berbagai penjuru Indonesia untuk mengikuti Gema ...",
+        "published": "2026-08-23T08:58:03.000Z"
+      },
+      {
+        "title": "7 Mitos tentang kehamilan yang masih dipercaya orang Indonesia",
+        "link": "https://www.antaranews.com/berita/5707703/7-mitos-tentang-kehamilan-yang-masih-dipercaya-orang-indonesia",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kehamilan sering menjadi fase yang dipenuhi banyak nasihat, terutama dari keluarga dan orang-orang di sekitar. Di ...",
+        "published": "2026-08-23T08:56:09.000Z"
+      },
+      {
+        "title": "Pemprov Kaltim gandeng perusahaan di Jateng olah sarang burung walet",
+        "link": "https://www.antaranews.com/berita/5707699/pemprov-kaltim-gandeng-perusahaan-di-jateng-olah-sarang-burung-walet",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Provinsi Kalimantan Timur menggandeng perusahaan swasta di Jawa Tengah untuk melakukan investasi pengolahan ...",
+        "published": "2026-08-23T08:55:25.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "JHT BPJS Ketenagakerjaan bisa cair tanpa resign, ini syaratnya",
