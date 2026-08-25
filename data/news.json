@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-25T11:26:10.926Z",
+  "updatedAt": "2026-08-25T12:43:57.809Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Thailand ambisi balikkan keadaan pada leg kedua final Piala AFF",
+        "link": "https://www.antaranews.com/berita/5710612/thailand-ambisi-balikkan-keadaan-pada-leg-kedua-final-piala-aff",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih Timnas Thailand Anthony Hudson menegaskan timnya berambisi membalikkan keadaan pada leg kedua final Piala AFF ...",
+        "published": "2026-08-25T12:41:35.000Z"
+      },
+      {
+        "title": "Baku tembak di Lampung Utara, DPO tewas dan tiga polisi terluka",
+        "link": "https://www.antaranews.com/berita/5710611/baku-tembak-di-lampung-utara-dpo-tewas-dan-tiga-polisi-terluka",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Seorang pria berinisial PHP (30) yang masuk daftar pencarian orang (DPO) kasus narkotika tewas setelah terlibat baku ...",
+        "published": "2026-08-25T12:39:39.000Z"
+      },
+      {
+        "title": "Bank BSN Gelar Akad Massal 10.000 Pembiayaan, KPR Subsidi Mendominasi",
+        "link": "https://www.antaranews.com/berita/5710607/bank-bsn-gelar-akad-massal-10000-pembiayaan-kpr-subsidi-mendominasi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bogor (ANTARA) — PT Bank Syariah Nasional (Bank BSN) menggelar akad massal 10.000 pembiayaan syariah secara ...",
+        "published": "2026-08-25T12:36:57.000Z"
+      },
+      {
+        "title": "AINAKI dorong industri animasi lokal perbanyak IP berbasis karakter",
+        "link": "https://www.antaranews.com/berita/5710604/ainaki-dorong-industri-animasi-lokal-perbanyak-ip-berbasis-karakter",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Asosiasi Industri Animasi Indonesia (AINAKI) mendorong pelaku industri animasi Indonesia untuk memperbanyak ...",
+        "published": "2026-08-25T12:35:43.000Z"
+      },
+      {
+        "title": "ASITA NTT dorong pemulihan pariwisata pascagempa berbasis 3A",
+        "link": "https://www.antaranews.com/berita/5710603/asita-ntt-dorong-pemulihan-pariwisata-pascagempa-berbasis-3a",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Asosiasi Perusahaan Perjalanan Wisata Indonesia (ASITA) Nusa Tenggara Timur (NTT) mendorong pemulihan sektor pariwisata ...",
+        "published": "2026-08-25T12:33:34.000Z"
+      },
+      {
+        "title": "Revaldo ditangkap lagi karena narkoba, polisi sita sabu dan alat hisap",
+        "link": "https://www.antaranews.com/berita/5710599/revaldo-ditangkap-lagi-karena-narkoba-polisi-sita-sabu-dan-alat-hisap",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polisi menyita barang bukti sabu dan alat hisap saat menangkap artis Revaldo Fifaldi terkait dugaan ...",
+        "published": "2026-08-25T12:27:17.000Z"
+      },
+      {
+        "title": "Asap kahutla, Pemkot Pekanbaru perpanjang belajar daring hingga Jumat",
+        "link": "https://www.antaranews.com/berita/5710595/asap-kahutla-pemkot-pekanbaru-perpanjang-belajar-daring-hingga-jumat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Kota (Pemkot) Pekanbaru, Provinsi Riau, memperpanjang pembelajaran jarak jauh  atau daring bagi peserta ...",
+        "published": "2026-08-25T12:23:01.000Z"
+      },
+      {
+        "title": "Imigrasi deportasi WNA Rusia terlibat publikasi ilegal di Papua",
+        "link": "https://www.antaranews.com/berita/5710592/imigrasi-deportasi-wna-rusia-terlibat-publikasi-ilegal-di-papua",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktorat Jenderal Imigrasi mendeportasi AP (39) warga negara Rusia yang terindikasi terlibat publikasi ilegal aksi ...",
+        "published": "2026-08-25T12:21:47.000Z"
+      },
+      {
+        "title": "Gelar launching tim, Semen Padang bawa misi wajib juara Liga 2",
+        "link": "https://www.antaranews.com/berita/5710588/gelar-launching-tim-semen-padang-bawa-misi-wajib-juara-liga-2",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Semen Padang mengumumkan tim dan jersi baru untuk Liga 2 Indonesia atau Championship 2026/2027 di Alam Sutera, ...",
+        "published": "2026-08-25T12:20:50.000Z"
+      },
+      {
+        "title": "Polisi belum menahan Ruben Onsu karena dinilai tak hambat penyidikan",
+        "link": "https://www.antaranews.com/berita/5710581/polisi-belum-menahan-ruben-onsu-karena-dinilai-tak-hambat-penyidikan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polisi menyatakan belum menahan artis Ruben Onsu sebagai tersangka kasus dugaan penipuan dan penggelapan senilai ...",
+        "published": "2026-08-25T12:17:04.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Aki motor gampang tekor? Ini 8 penyebab dan cara mengatasinya",
