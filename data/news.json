@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-25T23:24:11.849Z",
+  "updatedAt": "2026-08-26T01:14:01.068Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Ekonomi, Peluncuran PLTS hingga penyataan OJK terkait penundaan",
+        "link": "https://www.antaranews.com/berita/5711025/ekonomi-peluncuran-plts-hingga-penyataan-ojk-terkait-penundaan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt peak ...",
+        "published": "2026-08-26T01:13:00.000Z"
+      },
+      {
+        "title": "Mahasiswa Indonesia jajaki masa depan hijau & berkelanjutan di China",
+        "link": "https://www.antaranews.com/berita/5711024/mahasiswa-indonesia-jajaki-masa-depan-hijau-berkelanjutan-di-china",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Di sebuah laboratorium di Fakultas Teknik Kimia dan Teknologi Universitas Tianjin di Tiongkok utara, sebuah alat ...",
+        "published": "2026-08-26T01:09:09.000Z"
+      },
+      {
+        "title": "KPK panggil Kepala Dinas PUPR hingga anggota DPRD Kota Bengkulu",
+        "link": "https://www.antaranews.com/berita/5711023/kpk-panggil-kepala-dinas-pupr-hingga-anggota-dprd-kota-bengkulu",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Komisi Pemberantasan Korupsi (KPK) memanggil Kepala Dinas Pekerjaan Umum dan Penataan Ruang (PUPR) Kota Bengkulu ...",
+        "published": "2026-08-26T01:07:48.000Z"
+      },
+      {
+        "title": "Dari Bali, Presiden akan bertolak ke NTT cek penanganan gempa",
+        "link": "https://www.antaranews.com/berita/5711021/dari-bali-presiden-akan-bertolak-ke-ntt-cek-penanganan-gempa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Prabowo Subianto dijadwalkan bertolak dari Bali menuju Nusa Tenggara Timur (NTT), Rabu pagi, untuk mengecek ...",
+        "published": "2026-08-26T00:51:02.000Z"
+      },
+      {
+        "title": "Bos Lamborghini sebut supercar listrik China tak bisa menyainginya",
+        "link": "https://otomotif.antaranews.com/berita/5711017/bos-lamborghini-sebut-supercar-listrik-china-tak-bisa-menyainginya",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "CEO Lamborghini Stephan Winkelmann menyatakan tidak khawatir dengan semakin banyaknya mobil performa tinggi dua pintu ...",
+        "published": "2026-08-26T00:30:46.000Z"
+      },
+      {
+        "title": "Pemprov Kalsel siapkan 152 penyuluh Antikorupsi",
+        "link": "https://www.antaranews.com/berita/5711015/pemprov-kalsel-siapkan-152-penyuluh-antikorupsi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Provinsi Kalimantan Selatan menyiapkan 152 orang penyuluh antikorupsi yang berasal dari Inspektorat 13 ...",
+        "published": "2026-08-26T00:26:48.000Z"
+      },
+      {
+        "title": "Menjaga yang belum menjadi sakit",
+        "link": "https://www.antaranews.com/berita/5711012/menjaga-yang-belum-menjadi-sakit",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ada perbedaan besar antara mengetahui seseorang sakit dan mengetahui bahwa seseorang mulai berisiko sakit. Yang pertama ...",
+        "published": "2026-08-26T00:05:18.000Z"
+      },
+      {
+        "title": "OnePlus 16 dikabarkan punya layar 165Hz dengan bezel paling tipis",
+        "link": "https://www.antaranews.com/berita/5711008/oneplus-16-dikabarkan-punya-layar-165hz-dengan-bezel-paling-tipis",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bocoran terbaru dari OnePlus 16 mengungkapkan ponsel tersebut diklaim akan memiliki bingkai layar atau bezel paling ...",
+        "published": "2026-08-26T00:01:30.000Z"
+      },
+      {
+        "title": "Samsung Galaxy S27 Pro disebut mirip S27 Ultra, tapi lebih kecil",
+        "link": "https://www.antaranews.com/berita/5711007/samsung-galaxy-s27-pro-disebut-mirip-s27-ultra-tapi-lebih-kecil",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Samsung Galaxy S27 Pro dikabarkan akan memiliki desain yang mirip dengan Galaxy S27 Ultra, tetapi hadir dengan ukuran ...",
+        "published": "2026-08-25T23:48:03.000Z"
+      },
+      {
+        "title": "Mobil legendaris MR2 baru diprediksi hadir pada 2028 tanpa logo Toyota",
+        "link": "https://otomotif.antaranews.com/berita/5711001/mobil-legendaris-mr2-baru-diprediksi-hadir-pada-2028-tanpa-logo-toyota",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Mobil sport legendaris, Toyota MR2 generasi baru dilaporkan sedang disiapkan untuk hadir pada 2028, sekaligus ...",
+        "published": "2026-08-25T23:40:33.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Aki motor gampang tekor? Ini 8 penyebab dan cara mengatasinya",
