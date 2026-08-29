@@ -1,79 +1,22 @@
 {
-  "updatedAt": "2026-08-28T23:24:17.268Z",
+  "updatedAt": "2026-08-29T05:47:10.476Z",
   "categories": {
-    "nasional": [
-      {
-        "title": "Studi: perubahan iklim dan panas ekstrem berbahaya bagi 560 juta anak",
-        "link": "https://www.antaranews.com/berita/5716309/studi-perubahan-iklim-dan-panas-ekstrem-berbahaya-bagi-560-juta-anak",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Perubahan iklim yang disebabkan oleh manusia membuat sekitar 560 juta anak di seluruh dunia terpapar setidaknya satu ...",
-        "published": "2026-08-28T23:12:13.000Z"
-      },
-      {
-        "title": "Ben Moss resmi jadi Asisten Trump dan Sekretaris Staf Gedung Putih",
-        "link": "https://www.antaranews.com/berita/5716308/ben-moss-resmi-jadi-asisten-trump-dan-sekretaris-staf-gedung-putih",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Presiden Amerika Serikat (AS) Donald Trump pada Kamis (27/8) mengumumkan bahwa Ben Moss akan menjabat sebagai asisten ...",
-        "published": "2026-08-28T23:06:29.000Z"
-      },
-      {
-        "title": "Star Wars Zero Company™ Kini Tersedia di PC, PlayStation 5, dan XBOX Series",
-        "link": "https://www.antaranews.com/berita/5716307/star-wars-zero-company-kini-tersedia-di-pc-playstation-5-dan-xbox-series",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "- Electronic Arts Inc. dan Bit Reactor, bekerja sama dengan Lucasfilm Games, pada hari ini mengumumkan bahwa Star Wars ...",
-        "published": "2026-08-28T23:05:13.000Z"
-      },
-      {
-        "title": "Sabtu pagi, udara Jakarta masuk sepuluh besar terburuk di dunia",
-        "link": "https://www.antaranews.com/berita/5716305/sabtu-pagi-udara-jakarta-masuk-sepuluh-besar-terburuk-di-dunia",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Kualitas udara di Jakarta pada Sabtu pagi ini menduduki posisi sepuluh besar sebagai kota dengan udara terburuk di ...",
-        "published": "2026-08-28T23:03:29.000Z"
-      },
-      {
-        "title": "Kerukunan umat beragama di Indonesia semakin baik",
-        "link": "https://www.antaranews.com/infografik/5716279/kerukunan-umat-beragama-di-indonesia-semakin-baik",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Kerukunan umat beragama di Indonesia semakin baik dilihat dari Indeks Kerukunan Umat Beragama (IKUB) 2025 yang naik ke ...",
-        "published": "2026-08-28T23:00:00.000Z"
-      },
-      {
-        "title": "Melacak simfoni \"Ekkek-Keuling\"",
-        "link": "https://www.antaranews.com/berita/5716301/melacak-simfoni-ekkek-keuling",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Jauh sebelum suara kendaraan memecah kesunyian atau keriuhan wisatawan memenuhi jalan raya Cibodas, Cianjur, Jawa ...",
-        "published": "2026-08-28T22:59:38.000Z"
-      },
-      {
-        "title": "Ramos cetak gol perdana, AC Milan tekuk Venezia dua gol tanpa balas",
-        "link": "https://www.antaranews.com/berita/5716300/ramos-cetak-gol-perdana-ac-milan-tekuk-venezia-dua-gol-tanpa-balas",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "AC Milan sukses menekuk Venezia dua gol tanpa balas pada pekan kedua Liga Italia (Serie A) 2026/27 yang berlangsung di ...",
-        "published": "2026-08-28T22:55:16.000Z"
-      },
-      {
-        "title": "Australia akan evakuasi ilmuwan dari Pulau Sub-Antarktika",
-        "link": "https://www.antaranews.com/berita/5716297/australia-akan-evakuasi-ilmuwan-dari-pulau-sub-antarktika",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Pemerintah Australia pada Jumat (28/8) mengatakan akan mengevakuasi para ilmuwan dari sebuah pulau sub-Antarktika ...",
-        "published": "2026-08-28T22:55:09.000Z"
-      },
-      {
-        "title": "Nicolas Jackson tinggalkan Chelsea ke Aston Villa",
-        "link": "https://www.antaranews.com/berita/5716293/nicolas-jackson-tinggalkan-chelsea-ke-aston-villa",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Nicolas Jackson resmi menyelesaikan kepindahannya ke Aston Villa setelah meninggalkan Chelsea pada bursa transfer musim ...",
-        "published": "2026-08-28T22:52:00.000Z"
-      },
-      {
-        "title": "NYT sebut Pentagon bersiap tarik sekitar 200 tentara dari Nigeria",
-        "link": "https://www.antaranews.com/berita/5716289/nyt-sebut-pentagon-bersiap-tarik-sekitar-200-tentara-dari-nigeria",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Pentagon bersiap menarik sekitar 200 tentara Amerika Serikat (AS) dari Nigeria mulai akhir September mendatang, ...",
-        "published": "2026-08-28T22:50:23.000Z"
-      }
-    ],
+    "nasional": [],
     "ekonomi": [
+      {
+        "title": "10 negara terkaya di dunia 2026, Monako paling atas",
+        "link": "https://www.antaranews.com/berita/5716353/10-negara-terkaya-di-dunia-2026-monako-paling-atas",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Sejumlah negara dengan populasi relatif kecil masih mendominasi daftar negara terkaya di dunia pada 2026 jika diukur ...",
+        "published": "2026-08-29T00:22:54.000Z"
+      },
+      {
+        "title": "10 negara termiskin di dunia 2026, Yaman PDB paling rendah",
+        "link": "https://www.antaranews.com/berita/5716331/10-negara-termiskin-di-dunia-2026-yaman-pdb-paling-rendah",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Daftar negara termiskin di dunia 2026 menunjukkan kesenjangan ekonomi yang masih lebar antarnegara. Berdasarkan ...",
+        "published": "2026-08-29T00:07:42.000Z"
+      },
       {
         "title": "Motor brebet saat digas? Ini penyebab dan cara mengatasinya",
         "link": "https://otomotif.antaranews.com/berita/5712813/motor-brebet-saat-digas-ini-penyebab-dan-cara-mengatasinya",
@@ -129,20 +72,6 @@
         "source": "Ekonomi - ANTARA News",
         "summary": "Motor yang tiba-tiba tidak mau distarter tentu bisa bikin panik, apalagi saat sedang buru-buru berangkat kerja, ...",
         "published": "2026-08-25T01:33:56.000Z"
-      },
-      {
-        "title": "Kenapa motor susah distarter? Ini penyebab yang sering terjadi",
-        "link": "https://otomotif.antaranews.com/berita/5709141/kenapa-motor-susah-distarter-ini-penyebab-yang-sering-terjadi",
-        "source": "Ekonomi - ANTARA News",
-        "summary": "Motor yang sulit distarter bisa mengganggu aktivitas, terutama ketika harus digunakan pada pagi hari. Kondisi ini dapat ...",
-        "published": "2026-08-24T09:41:36.000Z"
-      },
-      {
-        "title": "7 Cara agar kendaraan Anda irit bahan bakar",
-        "link": "https://otomotif.antaranews.com/berita/5708701/7-cara-agar-kendaraan-anda-irit-bahan-bakar",
-        "source": "Ekonomi - ANTARA News",
-        "summary": "Menghemat bahan bakar tidak selalu berarti harus mengurangi penggunaan kendaraan secara drastis. Kebiasaan saat ...",
-        "published": "2026-08-24T06:37:02.000Z"
       }
     ],
     "olahraga": [
@@ -219,6 +148,13 @@
     ],
     "teknologi": [
       {
+        "title": "Benarkah tepung singkong bisa memadamkan api? Ini faktanya",
+        "link": "https://www.antaranews.com/berita/5716343/benarkah-tepung-singkong-bisa-memadamkan-api-ini-faktanya",
+        "source": "Tekno - ANTARA News",
+        "summary": "Tepung singkong disebut berpotensi menjadi bahan alternatif untuk membantu memadamkan kebakaran hutan dan lahan ...",
+        "published": "2026-08-29T00:13:35.000Z"
+      },
+      {
         "title": "Memori HP penuh padahal aplikasi sudah dihapus? Ini solusinya",
         "link": "https://www.antaranews.com/berita/5712812/memori-hp-penuh-padahal-aplikasi-sudah-dihapus-ini-solusinya",
         "source": "Tekno - ANTARA News",
@@ -280,16 +216,23 @@
         "source": "Tekno - ANTARA News",
         "summary": "Oppo resmi memperkenalkan Oppo A7 Pro Max, smartphone kelas menengah terbaru yang mengusung salah satu fitur paling ...",
         "published": "2026-08-06T13:45:08.000Z"
-      },
-      {
-        "title": "Bagaimana gerhana Matahari total terjadi? Ini penjelasan ilmiahnya",
-        "link": "https://www.antaranews.com/berita/5681875/bagaimana-gerhana-matahari-total-terjadi-ini-penjelasan-ilmiahnya",
-        "source": "Tekno - ANTARA News",
-        "summary": "Gerhana matahari total menjadi salah satu fenomena astronomi yang paling dinantikan karena hanya terjadi pada waktu dan ...",
-        "published": "2026-08-06T00:22:04.000Z"
       }
     ],
     "hiburan": [
+      {
+        "title": "Profil Dolly Parton, perjalanan karier hingga wafat di usia 80",
+        "link": "https://www.antaranews.com/berita/5716409/profil-dolly-parton-perjalanan-karier-hingga-wafat-di-usia-80",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Penyanyi country legendaris Amerika Serikat, Dolly Parton, meninggal dunia pada usia 80 tahun setelah menjalani ...",
+        "published": "2026-08-29T01:55:05.000Z"
+      },
+      {
+        "title": "6 bisnis Ruben Onsu, dari Geprek Bensu hingga media digital",
+        "link": "https://www.antaranews.com/berita/5716351/6-bisnis-ruben-onsu-dari-geprek-bensu-hingga-media-digital",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Ruben Onsu dikenal sebagai presenter sekaligus pengusaha yang memiliki sejumlah lini bisnis di bidang kuliner, media ...",
+        "published": "2026-08-29T00:18:21.000Z"
+      },
       {
         "title": "Profil Tim Curry, legenda Hollywood yang meninggal di usia 80 tahun",
         "link": "https://www.antaranews.com/berita/5713772/profil-tim-curry-legenda-hollywood-yang-meninggal-di-usia-80-tahun",
@@ -345,20 +288,6 @@
         "source": "Hiburan - ANTARA News",
         "summary": "Lagu \"Halo-Halo Bandung\" menjadi salah satu lagu perjuangan yang lekat dengan sejarah perjuangan rakyat ...",
         "published": "2026-08-15T05:39:37.000Z"
-      },
-      {
-        "title": "Lirik lagu \"Satu Nusa Satu Bangsa\" lengkap dan maknanya",
-        "link": "https://www.antaranews.com/berita/5695879/lirik-lagu-satu-nusa-satu-bangsa-lengkap-dan-maknanya",
-        "source": "Hiburan - ANTARA News",
-        "summary": "Lagu \"Satu Nusa Satu Bangsa\" menjadi salah satu lagu nasional yang lekat dengan semangat persatuan Indonesia. ...",
-        "published": "2026-08-15T05:28:46.000Z"
-      },
-      {
-        "title": "Lirik lagu \"Berkibarlah Benderaku\" lengkap dan maknanya",
-        "link": "https://www.antaranews.com/berita/5695859/lirik-lagu-berkibarlah-benderaku-lengkap-dan-maknanya",
-        "source": "Hiburan - ANTARA News",
-        "summary": "Lagu \"Berkibarlah Benderaku\" menjadi salah satu lagu nasional yang lekat dengan semangat cinta tanah air. ...",
-        "published": "2026-08-15T05:22:10.000Z"
       }
     ],
     "dunia": [
