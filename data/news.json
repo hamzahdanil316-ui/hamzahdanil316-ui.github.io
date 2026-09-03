@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-02T22:59:13.965Z",
+  "updatedAt": "2026-09-03T01:03:40.775Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Menengok layanan bus sekolah air gratis di Bo'ai, China",
+        "link": "https://www.antaranews.com/berita/5723628/menengok-layanan-bus-sekolah-air-gratis-di-boai-china",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bo'ai di wilayah Funing dikelilingi pegunungan, dengan medan jalan yang sulit dan banyak sungai. Selama ...",
+        "published": "2026-09-03T00:59:37.000Z"
+      },
+      {
+        "title": "Kementerian PU lakukan penanganan rumah ibadah terdampak gempa Flores",
+        "link": "https://www.antaranews.com/berita/5723625/kementerian-pu-lakukan-penanganan-rumah-ibadah-terdampak-gempa-flores",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Pekerjaan Umum (PU) melakukan penanganan terhadap sejumlah rumah ibadah, yang terdampak gempa bumi di ...",
+        "published": "2026-09-03T00:59:16.000Z"
+      },
+      {
+        "title": "Brimob Sumut gunakan kendaraan AWC bersihkan jalan dari abu Sinabung",
+        "link": "https://www.antaranews.com/berita/5723623/brimob-sumut-gunakan-kendaraan-awc-bersihkan-jalan-dari-abu-sinabung",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Personel Satuan Brimob Kepolisian Daerah (Polda) Sumatera Utara (Sumut) menggunakan kendaraan taktis ...",
+        "published": "2026-09-03T00:54:58.000Z"
+      },
+      {
+        "title": "Layanan Samsat Keliling tersedia di 14 wilayah Jadetabek pada Kamis",
+        "link": "https://www.antaranews.com/berita/5723619/layanan-samsat-keliling-tersedia-di-14-wilayah-jadetabek-pada-kamis",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling di 14 wilayah yang ...",
+        "published": "2026-09-03T00:54:33.000Z"
+      },
+      {
+        "title": "BP Tapera: Realisasi FLPP per 1 September capai 140.965 rumah",
+        "link": "https://www.antaranews.com/berita/5723616/bp-tapera-realisasi-flpp-per-1-september-capai-140965-rumah",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Pengelola Tabungan Perumahan Rakyat (BP Tapera) mencatat realisasi penyaluran fasilitas likuiditas pembiayaan ...",
+        "published": "2026-09-03T00:51:42.000Z"
+      },
+      {
+        "title": "Kamis, layanan SIM keliling tersedia di lima lokasi Jakarta",
+        "link": "https://www.antaranews.com/berita/5723612/kamis-layanan-sim-keliling-tersedia-di-lima-lokasi-jakarta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktorat Lalu Lintas Polda Metro Jaya membuka lima lokasi layanan Surat Izin Mengemudi (SIM) Keliling bagi masyarakat ...",
+        "published": "2026-09-03T00:47:04.000Z"
+      },
+      {
+        "title": "Menhan RI terima kunjungan Dubes Rusia perkuat kerja sama pertahanan",
+        "link": "https://www.antaranews.com/berita/5723608/menhan-ri-terima-kunjungan-dubes-rusia-perkuat-kerja-sama-pertahanan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Pertahanan (Menhan) RI Sjafrie Sjamsoeddin menerima kunjungan Duta Besar Federasi Rusia untuk Republik ...",
+        "published": "2026-09-03T00:46:25.000Z"
+      },
+      {
+        "title": "Pelaku UMKM Kendari: Wawasan digital makin luas berkat ANTARA",
+        "link": "https://www.antaranews.com/berita/5723605/pelaku-umkm-kendari-wawasan-digital-makin-luas-berkat-antara",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sejumlah pelaku usaha mikro, kecil, dan menengah (UMKM) di Kota Kendari, Sulawesi Tenggara (Sultra), ...",
+        "published": "2026-09-03T00:43:00.000Z"
+      },
+      {
+        "title": "Di Papeda Summit, Gubernur PBD serukan perlindungan hutan Papua",
+        "link": "https://www.antaranews.com/berita/5723604/di-papeda-summit-gubernur-pbd-serukan-perlindungan-hutan-papua",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur Papua Barat Daya Elisa Kambu meminta pemerintah pusat memberikan perhatian lebih serius terhadap perlindungan ...",
+        "published": "2026-09-03T00:32:21.000Z"
+      },
+      {
+        "title": "BMKG prakirakan seluruh Jakarta cerah berawan sepanjang Kamis",
+        "link": "https://www.antaranews.com/berita/5723600/bmkg-prakirakan-seluruh-jakarta-cerah-berawan-sepanjang-kamis",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan seluruh wilayah Jakarta cerah berawan sepanjang ...",
+        "published": "2026-09-03T00:31:52.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Harga minyak dunia naik, apa dampaknya bagi Indonesia?",
