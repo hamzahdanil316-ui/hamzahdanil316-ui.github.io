@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-06T05:31:12.439Z",
+  "updatedAt": "2026-09-06T10:19:33.694Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Mendikdasmen minta sekolah terdampak erupsi Krakatau berlakukan PJJ",
+        "link": "https://www.antaranews.com/berita/5728516/mendikdasmen-minta-sekolah-terdampak-erupsi-krakatau-berlakukan-pjj",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Pendidikan Dasar dan Menengah (Mendikdasmen) Abdul Mu'ti menginstruksikan pengalihan kegiatan belajar ...",
+        "published": "2026-09-06T10:16:33.000Z"
+      },
+      {
+        "title": "Penerbangan Lion Group ke Jakarta dibatalkan imbas erupsi Krakatau",
+        "link": "https://www.antaranews.com/berita/5728515/penerbangan-lion-group-ke-jakarta-dibatalkan-imbas-erupsi-krakatau",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sejumlah penerbangan dari dan menuju Jakarta melalui Bandar Udara Internasional Soekarno-Hatta (CGK) dan Bandar Udara ...",
+        "published": "2026-09-06T10:12:06.000Z"
+      },
+      {
+        "title": "Erupsi GAK, sebanyak 764 penerbangan terdampak di Bandara Soetta",
+        "link": "https://www.antaranews.com/berita/5728511/erupsi-gak-sebanyak-764-penerbangan-terdampak-di-bandara-soetta",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT Angkasa Pura Indonesia (Persero) atau InJourney Airports mencatat sebanyak 764 pergerakan pesawat penerbangan yang ...",
+        "published": "2026-09-06T10:06:33.000Z"
+      },
+      {
+        "title": "Bakom: Kesadaran kolektif jadi kunci menuju Indonesia Emas 2045",
+        "link": "https://www.antaranews.com/berita/5728509/bakom-kesadaran-kolektif-jadi-kunci-menuju-indonesia-emas-2045",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Deputi I Badan Komunikasi Pemerintah (Bakom) Fahd Pahdepie mengemukakan kesadaran kolektif menjadi salah satu ...",
+        "published": "2026-09-06T10:03:12.000Z"
+      },
+      {
+        "title": "Menkes imbau masyarakat jaga kesehatan hadapi dampak abu vulkanik",
+        "link": "https://www.antaranews.com/video/5728491/menkes-imbau-masyarakat-jaga-kesehatan-hadapi-dampak-abu-vulkanik",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Menteri Kesehatan, Budi Gunadi Sadikin, pada Minggu (6/9), mengimbau masyarakat terdampak abu vulkanik untuk ...",
+        "published": "2026-09-06T10:01:49.000Z"
+      },
+      {
+        "title": "Garuda Indonesia batalkan seluruh penerbangan Jakarta hingga Lampung",
+        "link": "https://www.antaranews.com/berita/5728507/garuda-indonesia-batalkan-seluruh-penerbangan-jakarta-hingga-lampung",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Maskapai nasional PT Garuda Indonesia (Persero) Tbk memutuskan untuk membatalkan seluruh jadwal penerbangan dari dan ...",
+        "published": "2026-09-06T10:01:24.000Z"
+      },
+      {
+        "title": "Pesawat aerosport Jatuh dan terbakar di Blora",
+        "link": "https://www.antaranews.com/berita/5728505/pesawat-aerosport-jatuh-dan-terbakar-di-blora",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pesawat aerosport jenis fixed-wing Sky Ranger jatuh dan terbakar di area persawahan Desa Sarimulyo, Kecamatan Ngawen, ...",
+        "published": "2026-09-06T09:59:03.000Z"
+      },
+      {
+        "title": "Penghentian penerbangan di Soetta berlanjut imbas abu Anak Krakatau",
+        "link": "https://www.antaranews.com/video/5728499/penghentian-penerbangan-di-soetta-berlanjut-imbas-abu-anak-krakatau",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "ANTARA - Operasional penerbangan di Bandara Internasional Soekarno-Hatta, Tangerang, Banten, masih ditutup sementara ...",
+        "published": "2026-09-06T09:56:18.000Z"
+      },
+      {
+        "title": "Menhub: Bandara alternatif disiapkan saat 6 bandara ditutup",
+        "link": "https://www.antaranews.com/berita/5728503/menhub-bandara-alternatif-disiapkan-saat-6-bandara-ditutup",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi menyatakan pemerintah telah menyiapkan sejumlah bandara alternatif untuk ...",
+        "published": "2026-09-06T09:54:51.000Z"
+      },
+      {
+        "title": "Kementerian Pariwisata pantau dampak erupsi Gunung Anak Krakatau",
+        "link": "https://www.antaranews.com/berita/5728495/kementerian-pariwisata-pantau-dampak-erupsi-gunung-anak-krakatau",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Pariwisata memantau dampak erupsi Gunung Anak Krakatau di perairan Selat Sunda terhadap ...",
+        "published": "2026-09-06T09:46:20.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "UMK wajib sertifikat halal, simak syarat dan cara daftarnya",
