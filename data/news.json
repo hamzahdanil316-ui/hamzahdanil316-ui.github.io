@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-07T22:31:03.709Z",
+  "updatedAt": "2026-09-08T00:54:51.984Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Politik kemarin, Prabowo soal kapal induk hingga dana mitigasi bencana",
+        "link": "https://www.antaranews.com/berita/5730713/politik-kemarin-prabowo-soal-kapal-induk-hingga-dana-mitigasi-bencana",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Berbagai peristiwa politik telah kami laporkan pada Senin (7/9), dan berikut lima berita pilihan untuk Anda baca ...",
+        "published": "2026-09-08T00:53:13.000Z"
+      },
+      {
+        "title": "Hukum kemarin, tarik permohonan di MK hingga tersangka pembakar lahan",
+        "link": "https://www.antaranews.com/berita/5730709/hukum-kemarin-tarik-permohonan-di-mk-hingga-tersangka-pembakar-lahan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Berbagai peristiwa hukum telah kami laporkan pada Senin (7/9), dan berikut lima berita pilihan untuk Anda baca kembali ...",
+        "published": "2026-09-08T00:36:15.000Z"
+      },
+      {
+        "title": "WiFi terhubung tapi tidak ada internet? Ini penyebab dan solusinya",
+        "link": "https://www.antaranews.com/berita/5730705/wifi-terhubung-tapi-tidak-ada-internet-ini-penyebab-dan-solusinya",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "WiFi yang menunjukkan status terhubung tetapi tidak bisa digunakan untuk membuka internet merupakan masalah yang cukup ...",
+        "published": "2026-09-08T00:10:59.000Z"
+      },
+      {
+        "title": "Mediator Timur Tengah persiapkan kesepakatan Iran-AS",
+        "link": "https://www.antaranews.com/berita/5730703/mediator-timur-tengah-persiapkan-kesepakatan-iran-as",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Juru bicara Kementerian Luar Negeri Qatar, Majed Al-Ansari pada Senin mengatakan bahwa pemerintahnya bersama dengan ...",
+        "published": "2026-09-08T00:10:07.000Z"
+      },
+      {
+        "title": "Sinopsis film \"Agensi Rumah Tangga\", Kisah Enzy Storia jadi ART",
+        "link": "https://www.antaranews.com/berita/5730700/sinopsis-film-agensi-rumah-tangga-kisah-enzy-storia-jadi-art",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Film Indonesia kembali menghadirkan cerita yang dekat dengan kehidupan sehari-hari melalui \"Agensi Rumah ...",
+        "published": "2026-09-08T00:07:50.000Z"
+      },
+      {
+        "title": "Populer, erupsi menerus GAK berakhir hingga tarif baru tiket Ragunan",
+        "link": "https://www.antaranews.com/berita/5730696/populer-erupsi-menerus-gak-berakhir-hingga-tarif-baru-tiket-ragunan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Terdapat sejumlah berita unggulan ANTARA yang menarik disimak pada Selasa, ada erupsi menerus Gunung Anak Krakatau ...",
+        "published": "2026-09-08T00:07:11.000Z"
+      },
+      {
+        "title": "Sejarah Hari Olahraga Nasional, berawal dari PON 1948",
+        "link": "https://www.antaranews.com/berita/5730692/sejarah-hari-olahraga-nasional-berawal-dari-pon-1948",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Hari Olahraga Nasional (Haornas) diperingati setiap 9 September. Peringatan ini berawal dari penyelenggaraan Pekan ...",
+        "published": "2026-09-08T00:04:48.000Z"
+      },
+      {
+        "title": "Otto nilai kerja sama regional krusial hadapi kejahatan saat ini",
+        "link": "https://www.antaranews.com/berita/5730691/otto-nilai-kerja-sama-regional-krusial-hadapi-kejahatan-saat-ini",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Wakil Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan ...",
+        "published": "2026-09-08T00:01:24.000Z"
+      },
+      {
+        "title": "Apa bedanya mata minus dan plus? Kenali gejala dan penyebabnya",
+        "link": "https://www.antaranews.com/berita/5730687/apa-bedanya-mata-minus-dan-plus-kenali-gejala-dan-penyebabnya",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Mata minus dan mata plus merupakan dua jenis gangguan penglihatan yang cukup umum. Keduanya sama-sama termasuk kelainan ...",
+        "published": "2026-09-08T00:01:22.000Z"
+      },
+      {
+        "title": "DKI kemarin, penataan kabel SJUT hingga pengoperasian \"water mist\"",
+        "link": "https://www.antaranews.com/berita/5730683/dki-kemarin-penataan-kabel-sjut-hingga-pengoperasian-water-mist",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Sejumlah peristiwa penting dan menarik mewarnai Jakarta pada Senin (7/9), mulai dari penataan kabel Sarana Jaringan ...",
+        "published": "2026-09-08T00:00:00.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Abu vulkanik berbahaya bagi pesawat, ini alasan penerbangan ditutup",
@@ -76,6 +147,13 @@
     ],
     "olahraga": [
       {
+        "title": "Sejarah Hari Olahraga Nasional, berawal dari PON 1948",
+        "link": "https://www.antaranews.com/berita/5730692/sejarah-hari-olahraga-nasional-berawal-dari-pon-1948",
+        "source": "Olahraga - ANTARA News",
+        "summary": "Hari Olahraga Nasional (Haornas) diperingati setiap 9 September. Peringatan ini berawal dari penyelenggaraan Pekan ...",
+        "published": "2026-09-08T00:04:48.000Z"
+      },
+      {
         "title": "Harga tiket dan jadwal pertandingan AFC Futsal Asia Cup Indonesia 2026",
         "link": "https://www.antaranews.com/berita/5350369/harga-tiket-dan-jadwal-pertandingan-afc-futsal-asia-cup-indonesia-2026",
         "source": "Olahraga - ANTARA News",
@@ -137,16 +215,16 @@
         "source": "Olahraga - ANTARA News",
         "summary": "Indomaret kembali menghadirkan ajang olahraga lari berskala besar melalui \"Indomaret Run 2025\" yang akan ...",
         "published": "2025-10-05T22:50:52.000Z"
-      },
-      {
-        "title": "Berapa kali Marc Marquez jadi juara dunia MotoGP? Ini prestasinya",
-        "link": "https://www.antaranews.com/berita/5142933/berapa-kali-marc-marquez-jadi-juara-dunia-motogp-ini-prestasinya",
-        "source": "Olahraga - ANTARA News",
-        "summary": "Seorang pembalap Grand Prix Sepeda Motor profesional asal Spanyol, Mark Marquez berhasil meraih kembali kursi takhta ...",
-        "published": "2025-09-30T03:43:11.000Z"
       }
     ],
     "teknologi": [
+      {
+        "title": "WiFi terhubung tapi tidak ada internet? Ini penyebab dan solusinya",
+        "link": "https://www.antaranews.com/berita/5730705/wifi-terhubung-tapi-tidak-ada-internet-ini-penyebab-dan-solusinya",
+        "source": "Tekno - ANTARA News",
+        "summary": "WiFi yang menunjukkan status terhubung tetapi tidak bisa digunakan untuk membuka internet merupakan masalah yang cukup ...",
+        "published": "2026-09-08T00:10:59.000Z"
+      },
       {
         "title": "Cara cek tagihan listrik PLN lewat HP dan tarif per kWh 2026",
         "link": "https://www.antaranews.com/berita/5729147/cara-cek-tagihan-listrik-pln-lewat-hp-dan-tarif-per-kwh-2026",
@@ -209,16 +287,16 @@
         "source": "Tekno - ANTARA News",
         "summary": "Menghapus aplikasi yang jarang digunakan belum tentu langsung membuat ruang penyimpanan ponsel kembali lega. File ...",
         "published": "2026-08-26T23:59:15.000Z"
-      },
-      {
-        "title": "Cara mengembalikan foto di HP yang tak sengaja terhapus",
-        "link": "https://www.antaranews.com/berita/5709157/cara-mengembalikan-foto-di-hp-yang-tak-sengaja-terhapus",
-        "source": "Tekno - ANTARA News",
-        "summary": "Foto yang tidak sengaja terhapus dari HP ternyata masih bisa dikembalikan, terutama jika file tersebut belum melewati ...",
-        "published": "2026-08-24T09:47:57.000Z"
       }
     ],
     "hiburan": [
+      {
+        "title": "Sinopsis film \"Agensi Rumah Tangga\", Kisah Enzy Storia jadi ART",
+        "link": "https://www.antaranews.com/berita/5730700/sinopsis-film-agensi-rumah-tangga-kisah-enzy-storia-jadi-art",
+        "source": "Hiburan - ANTARA News",
+        "summary": "Film Indonesia kembali menghadirkan cerita yang dekat dengan kehidupan sehari-hari melalui \"Agensi Rumah ...",
+        "published": "2026-09-08T00:07:50.000Z"
+      },
       {
         "title": "Profil Aldio Oekon, pebalap yang lamar Yoriko Angeline di Paris",
         "link": "https://www.antaranews.com/berita/5727135/profil-aldio-oekon-pebalap-yang-lamar-yoriko-angeline-di-paris",
@@ -281,13 +359,6 @@
         "source": "Hiburan - ANTARA News",
         "summary": "Seniman kontemporer Jepang Yayoi Kusama meninggal dunia pada usia 97 tahun. Sosok yang dikenal sebagai “Ratu ...",
         "published": "2026-08-27T09:59:01.000Z"
-      },
-      {
-        "title": "Profil Revaldo Fifaldi, aktor pemeran Rangga yang 4 kali ditangkap",
-        "link": "https://www.antaranews.com/berita/5713769/profil-revaldo-fifaldi-aktor-pemeran-rangga-yang-4-kali-ditangkap",
-        "source": "Hiburan - ANTARA News",
-        "summary": "Aktor Revaldo Fifaldi kembali menjadi sorotan setelah ditangkap polisi terkait dugaan penyalahgunaan narkotika untuk ...",
-        "published": "2026-08-27T09:56:58.000Z"
       }
     ],
     "dunia": [
