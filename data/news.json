@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-08T14:54:01.501Z",
+  "updatedAt": "2026-09-08T18:19:53.409Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "PSG sudah waspadai Slovan Bratislava di bawah asuhan Yaya Toure",
+        "link": "https://www.antaranews.com/berita/5732235/psg-sudah-waspadai-slovan-bratislava-di-bawah-asuhan-yaya-toure",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih Paris Saint-Germain (PSG) Luis Enrique mewaspadai Slovan Bratislava di bawah asuhan Yaya Toure jelang ...",
+        "published": "2026-09-08T18:10:18.000Z"
+      },
+      {
+        "title": "Polda Kalsel dinginkan lahan gambut yang terbakar",
+        "link": "https://www.antaranews.com/berita/5732233/polda-kalsel-dinginkan-lahan-gambut-yang-terbakar",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polda Kalimantan Selatan mendinginkan lahan gambut terbakar yang mencapai suhu lebih dari 400 derajat Celcius di ...",
+        "published": "2026-09-08T18:04:48.000Z"
+      },
+      {
+        "title": "Pemilik pastikan kapal layak bawa jurnalis ke Anak Krakatau ",
+        "link": "https://www.antaranews.com/berita/5732232/pemilik-pastikan-kapal-layak-bawa-jurnalis-ke-anak-krakatau",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemilik kapal yang membawa rombongan jurnalis untuk meliput erupsi Gunung Anak Krakatau, Sandi Wiasa, memastikan kapal ...",
+        "published": "2026-09-08T18:04:28.000Z"
+      },
+      {
+        "title": "ESDM sebut pengujian B50 telah uji tambang selama 1.000 jam",
+        "link": "https://www.antaranews.com/berita/5732229/esdm-sebut-pengujian-b50-telah-uji-tambang-selama-1000-jam",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Energi dan Sumber Daya Mineral (KemenESDM) menyatakan bahwa B50 atau biosolar telah melewati uji tambang ...",
+        "published": "2026-09-08T17:53:38.000Z"
+      },
+      {
+        "title": "SAR Banten siapkan dua drone termal cari jurnalis di Selat Sunda",
+        "link": "https://www.antaranews.com/berita/5732228/sar-banten-siapkan-dua-drone-termalcari-jurnalis-di-selat-sunda",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kantor SAR Banten menyiapkan dua drone termal (pesawat nirawak termal) untuk membantu pencarian rombongan jurnalis yang ...",
+        "published": "2026-09-08T17:53:11.000Z"
+      },
+      {
+        "title": "Flick sebut Barcelona siap tempur hadapi Feyenoord",
+        "link": "https://www.antaranews.com/berita/5732225/flick-sebut-barcelona-siap-tempur-hadapi-feyenoord",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih Barcelona Hansi Flick menegaskan tim asuhannya siap tempur menghadapi Feyenoord pada pertandingan pertama fase ...",
+        "published": "2026-09-08T17:47:50.000Z"
+      },
+      {
+        "title": "Tiga petenis Indonesia siap susul Nathan Barki ke babak kedua ITF M15",
+        "link": "https://www.antaranews.com/berita/5732221/tiga-petenis-indonesia-siap-susul-nathan-barki-ke-babak-kedua-itf-m15",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tiga petenis Indonesia, Anthony Susanto, Rafalentino Ali Da Costa, dan Muhammad Rifqi Fitriadi, siap menyusul Nathan ...",
+        "published": "2026-09-08T17:32:51.000Z"
+      },
+      {
+        "title": "Polri maksimalkan pencarian jurnalis hilang kontak di Selat Sunda",
+        "link": "https://www.antaranews.com/berita/5732217/polri-maksimalkan-pencarian-jurnalis-hilang-kontak-di-selat-sunda",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Polri bersama Basarnas dan unsur terkait memaksimalkan upaya pencarian sejumlah jurnalis yang hilang kontak saat ...",
+        "published": "2026-09-08T17:18:55.000Z"
+      },
+      {
+        "title": "GM PLN UID Sulselrabar tinjau optimalisasi pembangkit listrik",
+        "link": "https://www.antaranews.com/berita/5732213/gm-pln-uid-sulselrabar-tinjau-optimalisasi-pembangkit-listrik",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "General Manager PLN Unit Induk Distribusi Sulawesi Selatan, Sulawesi Tenggara, dan Sulawesi Barat (UID Sulselrabar) ...",
+        "published": "2026-09-08T17:11:59.000Z"
+      },
+      {
+        "title": "Kansar Banten cek informasi di Pulau Sebesi cari jurnalis hilang",
+        "link": "https://www.antaranews.com/berita/5732209/kansar-banten-cek-informasi-di-pulau-sebesi-cari-jurnalis-hilang",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kantor SAR Banten melakukan pengecekan informasi mengenai kemungkinan kapal yang membawa lima pewarta foto, termasuk ...",
+        "published": "2026-09-08T17:09:31.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Abu vulkanik berbahaya bagi pesawat, ini alasan penerbangan ditutup",
