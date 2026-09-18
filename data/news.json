@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-09-18T13:24:05.173Z",
+  "updatedAt": "2026-09-18T17:30:12.254Z",
   "categories": {
     "nasional": [],
     "ekonomi": [
+      {
+        "title": "Daftar menteri Keuangan RI sepanjang masa",
+        "link": "https://www.antaranews.com/berita/5748051/daftar-menteri-keuangan-ri-sepanjang-masa",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Kementerian Keuangan menjadi salah satu institusi penting dalam penyelenggaraan pemerintahan Indonesia sejak awal ...",
+        "published": "2026-09-18T13:34:50.000Z"
+      },
       {
         "title": "Kenapa Gen Z suka bayar pakai QRIS? Ini 4 alasannya",
         "link": "https://www.antaranews.com/berita/5747348/kenapa-gen-z-suka-bayar-pakai-qris-ini-4-alasannya",
@@ -65,13 +72,6 @@
         "source": "Ekonomi - ANTARA News",
         "summary": "KMP Virgo Transport 8 menjadi perhatian setelah mengalami kecelakaan di perairan Laut Jawa saat berlayar dari Surabaya ...",
         "published": "2026-09-14T11:40:11.000Z"
-      },
-      {
-        "title": "Benarkah perawatan mobil listrik lebih murah? Ini faktanya",
-        "link": "https://otomotif.antaranews.com/berita/5740212/benarkah-perawatan-mobil-listrik-lebih-murah-ini-faktanya",
-        "source": "Ekonomi - ANTARA News",
-        "summary": "Mobil listrik semakin mudah ditemui di jalanan Indonesia. Selain menawarkan pengalaman berkendara yang berbeda, ...",
-        "published": "2026-09-14T10:31:29.000Z"
       }
     ],
     "olahraga": [
