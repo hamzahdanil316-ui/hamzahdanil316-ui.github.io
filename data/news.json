@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-28T03:51:34.317Z",
+  "updatedAt": "2026-09-28T10:36:57.249Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Kelompok kanan ekstrem Prancis bentuk kaukus pertama dalam sejarah",
+        "link": "https://www.antaranews.com/berita/5761864/kelompok-kanan-ekstrem-prancis-bentuk-kaukus-pertama-dalam-sejarah",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Partai National Rally (RN) akan membentuk kaukus politik di Senat Prancis untuk pertama kalinya dalam sejarah partai ...",
+        "published": "2026-09-28T10:31:45.000Z"
+      },
+      {
+        "title": "Jaksa kembalikan Rp2,2 miliar barang bukti ke 13 anggota DPRD NTB",
+        "link": "https://www.antaranews.com/berita/5761861/jaksa-kembalikan-rp22-miliar-barang-bukti-ke-13-anggota-dprd-ntb",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Jaksa mengembalikan uang barang bukti senilai Rp2,2 miliar kepada 13 anggota DPRD Nusa Tenggara Barat sebagai ...",
+        "published": "2026-09-28T10:30:28.000Z"
+      },
+      {
+        "title": "BI kurangi intervensi spot, kini tinggal 30 persen",
+        "link": "https://www.antaranews.com/berita/5761860/bi-kurangi-intervensi-spot-kini-tinggal-30-persen",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bank Indonesia (BI) mengurangi penggunaan intervensi melalui transaksi spot dengan porsinya kini sekitar 30 persen dari ...",
+        "published": "2026-09-28T10:29:34.000Z"
+      },
+      {
+        "title": "Kemkomdigi: 66 persen masyarakat Indonesia pernah alami \"scam\"",
+        "link": "https://www.antaranews.com/berita/5761859/kemkomdigi-66-persen-masyarakat-indonesia-pernah-alami-scam",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Komunikasi dan Digital (Komdigi) menyebut sekitar 66 persen masyarakat Indonesia pernah mengalami ...",
+        "published": "2026-09-28T10:28:21.000Z"
+      },
+      {
+        "title": "Mendiktisaintek minta USU perkuat ekosistem iptek di wilayah Sumatera",
+        "link": "https://www.antaranews.com/berita/5761856/mendiktisaintek-minta-usu-perkuat-ekosistem-iptek-di-wilayah-sumatera",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek) Brian Yuliarto mendorong Universitas Sumatera Utara ...",
+        "published": "2026-09-28T10:28:15.000Z"
+      },
+      {
+        "title": "USCBC: Sangat penting pertahankan hubungan ekonomi AS-China yang kuat",
+        "link": "https://www.antaranews.com/berita/5761853/uscbc-sangat-penting-pertahankan-hubungan-ekonomi-as-china-yang-kuat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Dewan Bisnis AS-China (US-China Business Council/USCBC) Sean Stein menilai bahwa mempertahankan hubungan ...",
+        "published": "2026-09-28T10:26:47.000Z"
+      },
+      {
+        "title": "Basarnas: Penyelam temukan 5 jasad korban KM Virgo pada hari ke-16",
+        "link": "https://www.antaranews.com/berita/5761851/basarnas-penyelam-temukan-5-jasad-korban-km-virgo-pada-hari-ke-16",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Penyelam gabungan kembali menemukan dan mengevakuasi lima jasad korban kecelakaan Kap Motor (KM) Virgo Transport 8 di ...",
+        "published": "2026-09-28T10:26:02.000Z"
+      },
+      {
+        "title": "FPPJ dorong generasi muda biasakan gunakan transportasi publik",
+        "link": "https://www.antaranews.com/berita/5761848/fppj-dorong-generasi-muda-biasakan-gunakan-transportasi-publik",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Forum Pemuda Peduli Jakarta (FPPJ) mendorong generasi muda agar membiasakan diri menggunakan transportasi publik ...",
+        "published": "2026-09-28T10:25:41.000Z"
+      },
+      {
+        "title": "PLN EPI sebut biomassa membuka peluang 150 ribu lapangan kerja hijau",
+        "link": "https://www.antaranews.com/berita/5761847/pln-epi-sebut-biomassa-membuka-peluang-150-ribu-lapangan-kerja-hijau",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "PT PLN Energi Primer Indonesia (PLN EPI) menyebutkan pemanfaatan 10 juta ton biomassa membuka peluang penciptaan 150 ...",
+        "published": "2026-09-28T10:21:16.000Z"
+      },
+      {
+        "title": "Dua perkara di Poso dan Sigi berakhir damai lewat keadilan restoratif",
+        "link": "https://www.antaranews.com/berita/5761843/dua-perkara-di-poso-dan-sigi-berakhir-damai-lewat-keadilan-restoratif",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kejaksaan Tinggi Sulawesi Tengah menyetujui penyelesaian dua perkara pidana dari Kabupaten Poso dan Sigi melalui ...",
+        "published": "2026-09-28T10:21:07.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Biaya sewa baterai motor listrik 2026, mulai Rp84 ribu per bulan",
@@ -148,6 +219,13 @@
     ],
     "teknologi": [
       {
+        "title": "Harga WhatsApp Business naik 1 Oktober, ini faktanya",
+        "link": "https://www.antaranews.com/berita/5761432/harga-whatsapp-business-naik-1-oktober-ini-faktanya",
+        "source": "Tekno - ANTARA News",
+        "summary": "Pengguna WhatsApp Business Platform perlu bersiap menghadapi perubahan skema tarif yang mulai berlaku pada 1 Oktober ...",
+        "published": "2026-09-28T06:54:21.000Z"
+      },
+      {
         "title": "Pakai earbuds Bluetooth setiap hari, berbahaya bagi kesehatan?",
         "link": "https://www.antaranews.com/berita/5761045/pakai-earbuds-bluetooth-setiap-hari-berbahaya-bagi-kesehatan",
         "source": "Tekno - ANTARA News",
@@ -209,13 +287,6 @@
         "source": "Tekno - ANTARA News",
         "summary": "Beberapa hari lalu, insiden ponsel terbakar di dalam tas penumpang KRL di Stasiun Rawa Buntu sempat membuat geger. ...",
         "published": "2026-09-21T00:15:44.000Z"
-      },
-      {
-        "title": "Cara kosongkan memori HP tanpa hapus foto di Google Photos",
-        "link": "https://www.antaranews.com/berita/5750163/cara-kosongkan-memori-hp-tanpa-hapus-foto-di-google-photos",
-        "source": "Tekno - ANTARA News",
-        "summary": "Koleksi foto dan video yang terus bertambah dapat membuat ruang penyimpanan ponsel cepat menipis. Bagi pengguna Google ...",
-        "published": "2026-09-20T12:32:18.000Z"
       }
     ],
     "hiburan": [
