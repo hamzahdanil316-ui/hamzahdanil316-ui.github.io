@@ -1,79 +1,150 @@
 {
-  "updatedAt": "2026-10-14T00:53:02.266Z",
+  "updatedAt": "2026-10-14T05:50:41.046Z",
   "categories": {
     "nasional": [
       {
+        "title": "Klok bidik lanjutkan kemenangan Persib di ACL Two atas Cong Viettel",
+        "link": "https://www.antaranews.com/berita/5785277/klok-bidik-lanjutkan-kemenangan-persib-di-acl-two-atas-cong-viettel",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kapten Persib Bandung Marc Klok membidik untuk melanjutkan tren kemenangan di AFC Champions League Two (ACL Two) ...",
+        "published": "2026-10-14T05:43:53.000Z"
+      },
+      {
+        "title": "BNPB pastikan pelayanan masyarakat tetap berjalan lancar pasca OTT",
+        "link": "https://www.antaranews.com/berita/5785273/bnpb-pastikan-pelayanan-masyarakat-tetap-berjalan-lancar-pasca-ott",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelaksana tugas (Plt) Kepala Pusat Data, Informasi dan Komunikasi Kebencanaan Badan Nasional Penanggulangan Bencana ...",
+        "published": "2026-10-14T05:43:52.000Z"
+      },
+      {
+        "title": "Dishub Aceh Barat atur jam penyaluran biosolar urai kemacetan",
+        "link": "https://www.antaranews.com/berita/5785269/dishub-aceh-barat-atur-jam-penyaluran-biosolar-urai-kemacetan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Dinas Perhubungan (Dishub) Kabupaten Aceh Barat mulai mengatur jam penyaluran bahan bakar minyak (BBM) bersubsidi ...",
+        "published": "2026-10-14T05:41:17.000Z"
+      },
+      {
+        "title": "Kemenkes soroti prevalensi karies gigi 84,8 persen pada anak",
+        "link": "https://www.antaranews.com/berita/5785265/kemenkes-soroti-prevalensi-karies-gigi-848-persen-pada-anak",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Kesehatan  (Kemenkes) mengatakan, dalam Survei Kesehatan Indonesia (SKI) 2023, prevalensi karies pada ...",
+        "published": "2026-10-14T05:40:06.000Z"
+      },
+      {
+        "title": "Pemkab Kupang bangun Pelabuhan Rakyat Bolok dukung ekonomi pesisir",
+        "link": "https://www.antaranews.com/berita/5785261/pemkab-kupang-bangun-pelabuhan-rakyat-bolok-dukung-ekonomi-pesisir",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pemerintah Kabupaten (Pemkab) Kupang, Nusa Tenggara Timur, membangun Pelabuhan Rakyat Bolok senilai Rp8,64 miliar untuk ...",
+        "published": "2026-10-14T05:35:54.000Z"
+      },
+      {
+        "title": "BNPB hormati proses hukum yang sedang berjalan di KPK",
+        "link": "https://www.antaranews.com/berita/5785257/bnpb-hormati-proses-hukum-yang-sedang-berjalan-di-kpk",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelaksana tugas (Plt) Kepala Pusat Data, Informasi dan Komunikasi Kebencanaan Badan Nasional Penanggulangan Bencana ...",
+        "published": "2026-10-14T05:32:28.000Z"
+      },
+      {
+        "title": "Trump ingatkan akan ada tindakan lebih lanjut terhadap Iran",
+        "link": "https://www.antaranews.com/berita/5785253/trump-ingatkan-akan-ada-tindakan-lebih-lanjut-terhadap-iran",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Amerika Serikat Donald Trump mengisyaratkan akan mengambil tindakan lebih lanjut terhadap Iran saat dia ...",
+        "published": "2026-10-14T05:31:08.000Z"
+      },
+      {
+        "title": "SPPG Cikutra Bandung manfaatkan sampah MBG untuk pakan ternak",
+        "link": "https://www.antaranews.com/berita/5785249/sppg-cikutra-bandung-manfaatkan-sampah-mbg-untuk-pakan-ternak",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Satuan Pelayanan Pemenuhan Gizi (SPPG) Cikutra 1, Kota Bandung, memanfaatkan sisa makanan dari Program Makan Bergizi ...",
+        "published": "2026-10-14T05:30:23.000Z"
+      },
+      {
+        "title": "Polda Metro Jaya sambangi tujuh sekolah dukung lingkungan belajar aman",
+        "link": "https://www.antaranews.com/berita/5785245/polda-metro-jaya-sambangi-tujuh-sekolah-dukung-lingkungan-belajar-aman",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Direktorat Samapta Polda Metro Jaya menyambangi tujuh sekolah di Jakarta melalui patroli dialogis untuk memperkuat ...",
+        "published": "2026-10-14T05:27:42.000Z"
+      },
+      {
+        "title": "DJPb: Pendapatan negara di Sultra capai Rp4,17 triliun per September",
+        "link": "https://www.antaranews.com/berita/5785241/djpb-pendapatan-negara-di-sultra-capai-rp417-triliun-per-september",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kantor Wilayah Direktorat Jenderal Perbendaharaan (DJPb) Provinsi Sulawesi Tenggara (Sultra) mencatat realisasi ...",
+        "published": "2026-10-14T05:27:08.000Z"
+      }
+    ],
+    "ekonomi": [
+      {
         "title": "Mengapa mobil listrik lebih ramah lingkungan? Ini alasannya",
         "link": "https://otomotif.antaranews.com/berita/5784813/mengapa-mobil-listrik-lebih-ramah-lingkungan-ini-alasannya",
-        "source": "Berita Terkini - ANTARA News",
+        "source": "Ekonomi - ANTARA News",
         "summary": "Perkembangan industri otomotif saat ini tengah mengalami transisi besar menuju kendaraan listrik (electric vehicle). ...",
         "published": "2026-10-14T00:52:49.000Z"
       },
       {
-        "title": "Layanan SIM keliling tersedia di lima lokasi DKI Jakarta pada Rabu",
-        "link": "https://www.antaranews.com/berita/5784809/layanan-sim-keliling-tersedia-di-lima-lokasi-dki-jakarta-pada-rabu",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Direktorat Lalu Lintas Polda Metro Jaya membuka layanan Surat Izin Mengemudi (SIM) Keliling bagi masyarakat yang ...",
-        "published": "2026-10-14T00:52:22.000Z"
+        "title": "Simak! Ini dia cara mengetahui aki mobil mulai lemah",
+        "link": "https://otomotif.antaranews.com/berita/5781697/simak-ini-dia-cara-mengetahui-aki-mobil-mulai-lemah",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Aki menjadi salah satu komponen penting pada mobil karena bertugas menyediakan daya listrik untuk menghidupkan mesin ...",
+        "published": "2026-10-12T06:46:58.000Z"
       },
       {
-        "title": "Sampah dapur jangan dibuang, ini cara membuat pupuk kompos",
-        "link": "https://www.antaranews.com/berita/5784805/sampah-dapur-jangan-dibuang-ini-cara-membuat-pupuk-kompos",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Penumpukan sampah organik dari aktivitas dapur harian masih menjadi tantangan lingkungan yang kritis di Indonesia. ...",
-        "published": "2026-10-14T00:41:24.000Z"
+        "title": "Segini tekanan ban yang ideal bagi motor dan mobil Anda",
+        "link": "https://otomotif.antaranews.com/berita/5773320/segini-tekanan-ban-yang-ideal-bagi-motor-dan-mobil-anda",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Tekanan angin ban menjadi salah satu hal sederhana yang sering luput diperhatikan pemilik kendaraan. Padahal, terlalu ...",
+        "published": "2026-10-06T07:40:49.000Z"
       },
       {
-        "title": "Kemarin, BGN suspend 91 SPPG dan BUMN diminta ciptakan lapangan kerja",
-        "link": "https://www.antaranews.com/berita/5784801/kemarin-bgn-suspend-91-sppg-dan-bumn-diminta-ciptakan-lapangan-kerja",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Sejumlah berita humaniora kemarin yang masih menarik untuk dibaca, mulai dari BGN \"suspend\" 91 SPPG yang ...",
-        "published": "2026-10-14T00:34:53.000Z"
+        "title": "7 Tips investasi emas bagi pemula, gen Z harus tau!",
+        "link": "https://www.antaranews.com/berita/5773234/7-tips-investasi-emas-bagi-pemula-gen-z-harus-tau",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Emas kembali banyak dilirik sebagai salah satu pilihan untuk menyimpan aset. Bagi generasi muda, investasi emas juga ...",
+        "published": "2026-10-06T07:18:36.000Z"
       },
       {
-        "title": "PalmCo catat premi sawit Rp190,78 miliar hingga September 2026",
-        "link": "https://www.antaranews.com/berita/5784797/palmco-catat-premi-sawit-rp19078-miliar-hingga-september-2026",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "PT Perkebunan Nusantara IV (PTPN IV) PalmCo mencatat nilai premi dari penjualan produk minyak sawit bersertifikat ...",
-        "published": "2026-10-14T00:34:12.000Z"
+        "title": "BSU 2026 Rp900 ribu, ini syarat dan cara cek penerimanya",
+        "link": "https://www.antaranews.com/berita/5770854/bsu-2026-rp900-ribu-ini-syarat-dan-cara-cek-penerimanya",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Bantuan Subsidi Upah (BSU) kembali disiapkan pemerintah untuk pekerja pada kuartal IV 2026. Bantuan tersebut diberikan ...",
+        "published": "2026-10-04T12:17:20.000Z"
       },
       {
-        "title": "Cara membuat eco enzyme di rumah, cukup 3 bahan",
-        "link": "https://www.antaranews.com/berita/5784793/cara-membuat-eco-enzyme-di-rumah-cukup-3-bahan",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Membuat eco enzyme sendiri di rumah sangatlah praktis dan murah. Dengan mengolah kembali limbah organik dapur, Anda ...",
-        "published": "2026-10-14T00:25:49.000Z"
+        "title": "Emas Antam, Galeri24, dan UBS: Apa bedanya?",
+        "link": "https://www.antaranews.com/berita/5770432/emas-antam-galeri24-dan-ubs-apa-bedanya",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Bagi yang baru mulai investasi emas, nama Antam, Galeri24, dan UBS mungkin sudah tidak asing lagi di telinga. Ketiganya ...",
+        "published": "2026-10-04T03:37:18.000Z"
       },
       {
-        "title": "Gelaran JFW jadi pemantik wisatawan hingga lagu baru Britney Spears",
-        "link": "https://www.antaranews.com/berita/5784789/gelaran-jfw-jadi-pemantik-wisatawan-hingga-lagu-baru-britney-spears",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Sejumlah berita menarik dari kanal lifestyle, tekno, otomotif dan hiburan pada Selasa (13/10) masih dapat dibaca ...",
-        "published": "2026-10-14T00:15:11.000Z"
+        "title": "Biaya sewa baterai motor listrik 2026, mulai Rp84 ribu per bulan",
+        "link": "https://otomotif.antaranews.com/berita/5761043/biaya-sewa-baterai-motor-listrik-2026-mulai-rp84-ribu-per-bulan",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Motor listrik semakin menawarkan beragam skema kepemilikan di Indonesia. Salah satunya melalui sistem sewa baterai yang ...",
+        "published": "2026-09-27T23:49:34.000Z"
       },
       {
-        "title": "Menperin: Wajib halal jadi momen pacu daya saing produk industri",
-        "link": "https://www.antaranews.com/berita/5784785/menperin-wajib-halal-jadi-momen-pacu-daya-saing-produk-industri",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Menteri Perindustrian Muhammad Sarmuji menyampaikan implementasi kewajiban sertifikasi halal pada Oktober ...",
-        "published": "2026-10-14T00:14:26.000Z"
+        "title": "SPBU Signature Pertamina: Pengertian, fasilitas, dan lokasinya",
+        "link": "https://www.antaranews.com/berita/5755795/spbu-signature-pertamina-pengertian-fasilitas-dan-lokasinya",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Pertamina Patra Niaga menghadirkan konsep SPBU Signature sebagai bagian dari pengembangan layanan untuk memberikan ...",
+        "published": "2026-09-24T00:38:14.000Z"
       },
       {
-        "title": "Apa arti KPD di Cek Bansos? Ini penjelasan status YA dan TIDAK",
-        "link": "https://www.antaranews.com/berita/5784781/apa-arti-kpd-di-cek-bansos-ini-penjelasan-status-ya-dan-tidak",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Masyarakat yang memeriksa status bantuan sosial melalui laman resmi Kementerian Sosial (Kemensos) mungkin menemukan ...",
-        "published": "2026-10-14T00:13:22.000Z"
+        "title": "Daftar 14 pejabat baru Kemenkeu yang dilantik Suahasil",
+        "link": "https://www.antaranews.com/berita/5753039/daftar-14-pejabat-baru-kemenkeu-yang-dilantik-suahasil",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Kementerian Keuangan kembali melakukan pengisian sejumlah jabatan pimpinan di lingkungan kementerian dan Sekretariat ...",
+        "published": "2026-09-22T10:05:29.000Z"
       },
       {
-        "title": "GAPKI Apresiasi Pemerintah Ajukan Revisi UU PPLH",
-        "link": "https://www.antaranews.com/berita/5784777/gapki-apresiasi-pemerintah-ajukan-revisi-uu-pplh",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Jakarta (ANTARA) – Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI) menyatakan dukungan penuh terhadap rencana ...",
-        "published": "2026-10-13T23:57:45.000Z"
+        "title": "Green SM Bike di Jakarta, driver bisa sewa motor mulai Rp39 ribu",
+        "link": "https://otomotif.antaranews.com/berita/5748737/green-sm-bike-di-jakarta-driver-bisa-sewa-motor-mulai-rp39-ribu",
+        "source": "Ekonomi - ANTARA News",
+        "summary": "Layanan ojek online berbasis motor listrik Green SM resmi mengaspal di Jakarta pada 16 September 2026. Kehadiran ...",
+        "published": "2026-09-19T03:50:29.000Z"
       }
     ],
-    "ekonomi": [],
     "olahraga": [
       {
         "title": "Deretan bintang muda yang bisa bersinar di NBA 2026/2027",
@@ -148,6 +219,13 @@
     ],
     "teknologi": [
       {
+        "title": "8 rekomendasi kamera mirrorless untuk pemula, pilih yang mana?",
+        "link": "https://www.antaranews.com/berita/5784953/8-rekomendasi-kamera-mirrorless-untuk-pemula-pilih-yang-mana",
+        "source": "Tekno - ANTARA News",
+        "summary": "Belajar fotografi tidak harus langsung menggunakan kamera profesional dengan harga puluhan juta rupiah. Saat ini, ...",
+        "published": "2026-10-14T02:13:20.000Z"
+      },
+      {
         "title": "POCO F9 Series masuk Indonesia, ini spesifikasi dan harganya",
         "link": "https://www.antaranews.com/berita/5782058/poco-f9-series-masuk-indonesia-ini-spesifikasi-dan-harganya",
         "source": "Tekno - ANTARA News",
@@ -209,13 +287,6 @@
         "source": "Tekno - ANTARA News",
         "summary": "Penantian pengguna iPhone di Indonesia terhadap generasi terbaru lini Pro akhirnya memasuki tahap akhir. iPhone 18 Pro ...",
         "published": "2026-10-12T06:34:26.000Z"
-      },
-      {
-        "title": "Coba 8 tips ini untuk dapatkan game murah di Steam",
-        "link": "https://www.antaranews.com/berita/5781662/coba-8-tips-ini-untuk-dapatkan-game-murah-di-steam",
-        "source": "Tekno - ANTARA News",
-        "summary": "Membeli game PC tidak selalu harus menguras kantong. Bagi pengguna Steam, ada banyak cara untuk mendapatkan game dengan ...",
-        "published": "2026-10-12T06:33:02.000Z"
       }
     ],
     "hiburan": [
@@ -292,6 +363,13 @@
     ],
     "dunia": [
       {
+        "title": "Benarkah di Arab Saudi libur hari Jumat? Begini fakta dan sejarahnya",
+        "link": "https://www.antaranews.com/berita/5784853/benarkah-di-arab-saudi-libur-hari-jumat-begini-fakta-dan-sejarahnya",
+        "source": "Dunia - ANTARA News",
+        "summary": "Hari Jumat memiliki posisi yang istimewa bagi umat Islam. Tidak heran jika muncul anggapan bahwa negara-negara dengan ...",
+        "published": "2026-10-14T01:25:07.000Z"
+      },
+      {
         "title": "Profil Siti Hasmah, istri Mahathir yang wafat di usia 100 tahun",
         "link": "https://www.antaranews.com/berita/5765403/profil-siti-hasmah-istri-mahathir-yang-wafat-di-usia-100-tahun",
         "source": "Dunia - ANTARA News",
@@ -353,13 +431,6 @@
         "source": "Dunia - ANTARA News",
         "summary": "Greenland adalah sebuah negara yang dikenal 80 persen wilayahnya tertutup oleh es abadi, bukan hamparan daratan hijau ...",
         "published": "2026-01-08T08:51:29.000Z"
-      },
-      {
-        "title": "Spanyol tolak intervensi yang langgar hukum internasional di Venezuela",
-        "link": "https://www.antaranews.com/berita/5332804/spanyol-tolak-intervensi-yang-langgar-hukum-internasional-di-venezuela",
-        "source": "Dunia - ANTARA News",
-        "summary": "Spanyol tidak akan mendukung intervensi eksternal apa pun di Venezuela yang melanggar hukum internasional dan berisiko ...",
-        "published": "2026-01-04T10:38:54.000Z"
       }
     ]
   }
