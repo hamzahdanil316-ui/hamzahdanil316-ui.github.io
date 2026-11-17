@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-11-16T23:13:08.514Z",
+  "updatedAt": "2026-11-17T06:43:20.886Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Redmi Note 18 5G dikabarkan punya baterai berkapasitas 8.888 mAh",
+        "link": "https://www.antaranews.com/berita/5859263/redmi-note-18-5g-dikabarkan-punya-baterai-berkapasitas-8888-mah",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Bocoran informasi terbaru mengenai Redmi Note 18 5G mengungkapkan bahwa ponsel tersebut akan dibekali baterai dengan ...",
+        "published": "2026-11-17T06:41:00.000Z"
+      },
+      {
+        "title": "Ahli: Sembarangan minum antibiotik bisa ancam kesehatan masyarakat",
+        "link": "https://www.antaranews.com/berita/5859259/ahli-sembarangan-minum-antibiotik-bisa-ancam-kesehatan-masyarakat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Apoteker sekaligus pemengaruh apt. Rahmat Hidayat atau Mr. Matt mengatakan bahwa sembarangan meminum antibiotik dapat ...",
+        "published": "2026-11-17T06:39:42.000Z"
+      },
+      {
+        "title": "Magang Nasional 2026 Batch 3A serap 55 ribu lulusan perguruan tinggi",
+        "link": "https://www.antaranews.com/berita/5859255/magang-nasional-2026-batch-3a-serap-55-ribu-lulusan-perguruan-tinggi",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Kementerian Ketenagakerjaan (Kemnaker) mencatat program Magang Nasional (MagangHub) Tahun 2026 Batch 3A menyerap lebih ...",
+        "published": "2026-11-17T06:39:10.000Z"
+      },
+      {
+        "title": "DLH Mataram tata ruas Jalan TGH Faisal persiapan PON 2028",
+        "link": "https://www.antaranews.com/berita/5859251/dlh-mataram-tata-ruas-jalan-tgh-faisal-persiapan-pon-2028",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Dinas Lingkungan Hidup Kota Mataram, Provinsi Nusa Tenggara Barat, segera melakukan penataan pada ruas Jalan TGH Faisal ...",
+        "published": "2026-11-17T06:39:04.000Z"
+      },
+      {
+        "title": "Sultan HB tegaskan ruang demokrasi kebebasan masyarakat terus dijaga",
+        "link": "https://www.antaranews.com/berita/5859247/sultan-hb-tegaskan-ruang-demokrasi-kebebasan-masyarakat-terus-dijaga",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur Daerah Istimewa Yogyakarta (DIY) Sri Sultan Hamengku Buwono X menegaskan ruang demokrasi dan kebebasan ...",
+        "published": "2026-11-17T06:38:44.000Z"
+      },
+      {
+        "title": "Prabowo hadiri KTT Ke-23 ASEAN-India di Manila, PM Modi turut hadir",
+        "link": "https://www.antaranews.com/berita/5859243/prabowo-hadiri-ktt-ke-23-asean-india-di-manila-pm-modi-turut-hadir",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Presiden Prabowo Subianto menghadiri Konferensi Tingkat Tinggi (KTT) Ke-23 ASEAN-India di Philippine International ...",
+        "published": "2026-11-17T06:38:07.000Z"
+      },
+      {
+        "title": "Persib terus matangkan persiapan untuk laga lawan Shan United",
+        "link": "https://www.antaranews.com/berita/5859239/persib-terus-matangkan-persiapan-untuk-laga-lawan-shan-united",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Persib Bandung terus mematangkan persiapan untuk laga kedua pada kompetisi ASEAN Club Championship (ACC) Shopee Cup ...",
+        "published": "2026-11-17T06:37:52.000Z"
+      },
+      {
+        "title": "IDI perkuat pembinaan dokter untuk kendalikan resistensi antibiotik",
+        "link": "https://www.antaranews.com/berita/5859235/idi-perkuat-pembinaan-dokter-untuk-kendalikan-resistensi-antibiotik",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pengurus Besar Ikatan Dokter Indonesia (PB IDI) memperkuat pembinaan kompetensi dokter melalui pelatihan pengendalian ...",
+        "published": "2026-11-17T06:37:47.000Z"
+      },
+      {
+        "title": "AS usulkan pengetatan aturan green card melalui sponsor perusahaan",
+        "link": "https://www.antaranews.com/berita/5859231/as-usulkan-pengetatan-aturan-green-card-melalui-sponsor-perusahaan",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Departemen Tenaga Kerja AS pada Senin (16/11) mengusulkan aturan untuk memperketat regulasi terkait \"green ...",
+        "published": "2026-11-17T06:36:15.000Z"
+      },
+      {
+        "title": "Timnas asah teknik menembak guna hadapi Prakualifikasi FIBA Asia 2029",
+        "link": "https://www.antaranews.com/berita/5859227/timnas-asah-teknik-menembak-guna-hadapi-prakualifikasi-fiba-asia-2029",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tim nasional bola basket Indonesia terus mengasah kemampuan teknik menembak dan meningkatkan efektivitas penyelesaian ...",
+        "published": "2026-11-17T06:34:59.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "Cara mencairkan BSU Rp900 ribu lewat rekening bank",
