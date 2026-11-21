@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-11-21T12:08:03.755Z",
+  "updatedAt": "2026-11-21T19:56:14.878Z",
   "categories": {
-    "nasional": [],
+    "nasional": [
+      {
+        "title": "Mendag: Penandatanganan IEU-CEPA buka peluang pasar baru",
+        "link": "https://www.antaranews.com/berita/5870335/mendag-penandatanganan-ieu-cepa-buka-peluang-pasar-baru",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Perdagangan (Mendag) Budi Santoso mengatakan, penandatanganan Perjanjian Kemitraan Ekonomi Komprehensif ...",
+        "published": "2026-11-21T18:57:34.000Z"
+      },
+      {
+        "title": "Williams-Barnett bersinar, Tottenham tekuk Ipswich 2-0",
+        "link": "https://www.antaranews.com/berita/5870331/williams-barnett-bersinar-tottenham-tekuk-ipswich-2-0",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Tottenham Hotspur naik ke peringkat kesembilan klasemen sementara Liga Inggris 2026/2027 setelah mengalahkan Ipswich ...",
+        "published": "2026-11-21T18:56:36.000Z"
+      },
+      {
+        "title": "Gubernur Banten minta penanganan dampak kebakaran Badui dipercepat",
+        "link": "https://www.antaranews.com/berita/5870327/gubernur-banten-minta-penanganan-dampak-kebakaran-badui-dipercepat",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur Banten Andra Soni meminta jajarannya mempercepat penanganan warga Badui terdampak kebakaran di Kampung ...",
+        "published": "2026-11-21T18:54:20.000Z"
+      },
+      {
+        "title": "Gubernur Jateng luncurkan kalender wisata 2027 di Pulau Karimunjawa",
+        "link": "https://www.antaranews.com/berita/5870323/gubernur-jateng-luncurkan-kalender-wisata-2027-di-pulau-karimunjawa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Gubernur Jawa Tengah Ahmad Luthfi meluncurkan Kalender Agenda Wisata Jawa Tengah 2027 (Calendar of Events/CoE) di ...",
+        "published": "2026-11-21T18:37:42.000Z"
+      },
+      {
+        "title": "Farianda kembali pimpin PWI Sumut hingga 2031",
+        "link": "https://www.antaranews.com/berita/5870319/farianda-kembali-pimpin-pwi-sumut-hingga-2031",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Ketua Umum Persatuan Wartawan Indonesia (PWI) Pusat Akhmad Munir mengatakan Farianda Putra Sinik kembali terpilih ...",
+        "published": "2026-11-21T18:28:30.000Z"
+      },
+      {
+        "title": "Airlangga: IEU-CEPA buka peluang UMKM Indonesia tembus pasar Eropa",
+        "link": "https://www.antaranews.com/berita/5870315/airlangga-ieu-cepa-buka-peluang-umkm-indonesia-tembus-pasar-eropa",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan penandatanganan Perjanjian Kemitraan Ekonomi ...",
+        "published": "2026-11-21T18:21:45.000Z"
+      },
+      {
+        "title": "Sambut lima abad Jakarta, kejuaraan judo bidik lebih banyak negara",
+        "link": "https://www.antaranews.com/berita/5870311/sambut-lima-abad-jakarta-kejuaraan-judo-bidik-lebih-banyak-negara",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pengurus Provinsi Persatuan Judo Seluruh Indonesia (PJSI) DKI Jakarta berharap lebih banyak negara mengikuti Jakarta ...",
+        "published": "2026-11-21T17:58:02.000Z"
+      },
+      {
+        "title": "Dua gol Noslin bawa Lazio kukuh di puncak Liga Italia",
+        "link": "https://www.antaranews.com/berita/5870307/dua-gol-noslin-bawa-lazio-kukuh-di-puncak-liga-italia",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Lazio semakin kukuh di puncak klasemen sementara Liga Italia 2026/2027, setelah mengalahkan Lecce dengan skor 3-0 pada ...",
+        "published": "2026-11-21T17:50:34.000Z"
+      },
+      {
+        "title": "Bezzecchi juara Sprint MotoGP Portugal, Marquez gagal kunci gelar",
+        "link": "https://www.antaranews.com/berita/5870303/bezzecchi-juara-sprint-motogp-portugal-marquez-gagal-kunci-gelar",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pembalap Aprilia Racing Marco Bezzecchi memenangi Sprint MotoGP Portugal 2026 di Sirkuit Internasional Algarve, ...",
+        "published": "2026-11-21T17:46:03.000Z"
+      },
+      {
+        "title": "Terpuruk di dasar klasemen, Persijap bidik poin di sisa laga",
+        "link": "https://www.antaranews.com/berita/5870299/terpuruk-di-dasar-klasemen-persijap-bidik-poin-di-sisa-laga",
+        "source": "Berita Terkini - ANTARA News",
+        "summary": "Pelatih Persijap Jepara Juan Cortes meminta para pemainnya untuk memaksimalkan perolehan poin dalam sisa pertandingan ...",
+        "published": "2026-11-21T17:42:06.000Z"
+      }
+    ],
     "ekonomi": [
       {
         "title": "ATM tidak bisa digunakan padahal saldo ada? Ini 9 penyebabnya",
@@ -148,6 +219,13 @@
     ],
     "teknologi": [
       {
+        "title": "Layar laptop hitam total tapi masih menyala? Ini 4 cara mengatasinya",
+        "link": "https://www.antaranews.com/berita/5870107/layar-laptop-hitam-total-tapi-masih-menyala-ini-4-cara-mengatasinya",
+        "source": "Tekno - ANTARA News",
+        "summary": "Layar laptop yang tiba-tiba gelap total (black screen) padahal lampu indikator daya menyala atau suara kipas terdengar ...",
+        "published": "2026-11-21T14:44:01.000Z"
+      },
+      {
         "title": "GTA VI sudah rilis! Ini karakter-karakternya yang harus Anda ketahui",
         "link": "https://www.antaranews.com/berita/5869195/gta-vi-sudah-rilis-ini-karakter-karakternya-yang-harus-anda-ketahui",
         "source": "Tekno - ANTARA News",
@@ -209,13 +287,6 @@
         "source": "Tekno - ANTARA News",
         "summary": "Kacamata pintar atau smart glasses semakin berkembang dengan menggabungkan fungsi kacamata konvensional dan teknologi ...",
         "published": "2026-11-14T07:57:40.000Z"
-      },
-      {
-        "title": "Kenapa sinyal HP lemot di tempat aamai? Ini 5 penyebabnya",
-        "link": "https://www.antaranews.com/berita/5853423/kenapa-sinyal-hp-lemot-di-tempat-aamai-ini-5-penyebabnya",
-        "source": "Tekno - ANTARA News",
-        "summary": "Pernah mengalami sinyal ponsel tiba-tiba melambat atau bahkan hilang ketika berada di konser, stadion, pusat ...",
-        "published": "2026-11-14T02:25:28.000Z"
       }
     ],
     "hiburan": [
