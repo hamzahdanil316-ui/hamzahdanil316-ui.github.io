@@ -1,78 +1,7 @@
 {
-  "updatedAt": "2026-11-22T00:08:21.913Z",
+  "updatedAt": "2026-11-22T07:46:20.876Z",
   "categories": {
-    "nasional": [
-      {
-        "title": "Hukum sepekan, Raffi Ahmad konsultasi ke KPK hingga PMI bermasalah",
-        "link": "https://www.antaranews.com/berita/5870415/hukum-sepekan-raffi-ahmad-konsultasi-ke-kpk-hingga-pmi-bermasalah",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Komisi Pemberantasan Korupsi (KPK) merespons pernyataan Utusan Khusus Presiden Bidang Pembinaan Generasi Muda dan ...",
-        "published": "2026-11-22T00:06:14.000Z"
-      },
-      {
-        "title": "Simak lagi warta soal pemenang MAMA Awards, penyegaran Burgman Street",
-        "link": "https://www.antaranews.com/berita/5870411/simak-lagi-warta-soal-pemenang-mama-awards-penyegaran-burgman-street",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Kanal hiburan, gaya hidup, teknologi, dan otomotif ANTARA pada Sabtu (21/11) antara lain menyajikan warta tentang ...",
-        "published": "2026-11-22T00:05:33.000Z"
-      },
-      {
-        "title": "DKI sepekan, sambut lima abad Jakarta hingga UMP 2027",
-        "link": "https://www.antaranews.com/berita/5870407/dki-sepekan-sambut-lima-abad-jakarta-hingga-ump-2027",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Sejumlah berita di DKI Jakarta pada sepekan terakhir masih menarik untuk disimak hari ini mulai dari DKI siapkan 314 ...",
-        "published": "2026-11-21T23:30:54.000Z"
-      },
-      {
-        "title": "Perempat final UEFA Nations League 2026/2027",
-        "link": "https://www.antaranews.com/infografik/5870395/perempat-final-uefa-nations-league-2026-2027",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Delapan negara siap bersaing memperebutkan tiket ke semifinal UEFA Nations League 2026/2027 setelah hasil undian ...",
-        "published": "2026-11-21T23:30:00.000Z"
-      },
-      {
-        "title": "Kriminal sepekan, pencuri burung hingga pembunuhan di Menteng",
-        "link": "https://www.antaranews.com/berita/5870403/kriminal-sepekan-pencuri-burung-hingga-pembunuhan-di-menteng",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Sejumlah peristiwa kriminal yang terjadi selama sepekan terakhir masih menarik untuk dibaca hari ini antara lain ...",
-        "published": "2026-11-21T23:28:04.000Z"
-      },
-      {
-        "title": "Gol telat Carlos Espi bawa Real Madrid bangkit kalahkan Celta",
-        "link": "https://www.antaranews.com/berita/5870399/gol-telat-carlos-espi-bawa-real-madrid-bangkit-kalahkan-celta",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Real Madrid bangkit dari ketertinggalan untuk mengalahkan Celta Vigo 2-1 pada pekan ke-13 Liga Spanyol 2026/2027 di ...",
-        "published": "2026-11-21T23:16:50.000Z"
-      },
-      {
-        "title": "BMKG peringatkan hujan lebat di sejumlah wilayah Indonesia pada Minggu",
-        "link": "https://www.antaranews.com/berita/5870391/bmkg-peringatkan-hujan-lebat-di-sejumlah-wilayah-indonesia-pada-minggu",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperingatkan potensi hujan lebat hingga sangat lebat di sejumlah ...",
-        "published": "2026-11-21T23:02:23.000Z"
-      },
-      {
-        "title": "PSG taklukkan Nice 3-2 dan catat 12 kemenangan beruntun",
-        "link": "https://www.antaranews.com/berita/5870387/psg-taklukkan-nice-3-2-dan-catat-12-kemenangan-beruntun",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Paris Saint-Germain (PSG) memperpanjang tren kemenangan menjadi 12 pertandingan beruntun di seluruh kompetisi setelah ...",
-        "published": "2026-11-21T22:47:39.000Z"
-      },
-      {
-        "title": "Menyambut musim hujan dengan mitigasi terpadu dan ketangguhan warga",
-        "link": "https://www.antaranews.com/berita/5870383/menyambut-musim-hujan-dengan-mitigasi-terpadu-dan-ketangguhan-warga",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Aliran massa udara basah yang dibawa angin muson perlahan mengambil alih langit Nusantara, menandai pergantian musim ...",
-        "published": "2026-11-21T22:42:16.000Z"
-      },
-      {
-        "title": "Sepekan, Translokasi badak jawa - isu Sekolah Rakyat hutan kota UI",
-        "link": "https://www.antaranews.com/berita/5870379/sepekan-translokasi-badak-jawa-isu-sekolah-rakyat-hutan-kota-ui",
-        "source": "Berita Terkini - ANTARA News",
-        "summary": "Berikut rangkuman berita peristiwa populer humaniora sepekan terakhir (25-21 November) di Indonesia. Dari Taman ...",
-        "published": "2026-11-21T22:32:52.000Z"
-      }
-    ],
+    "nasional": [],
     "ekonomi": [
       {
         "title": "ATM tidak bisa digunakan padahal saldo ada? Ini 9 penyebabnya",
@@ -219,6 +148,27 @@
     ],
     "teknologi": [
       {
+        "title": "5 alasan orang lebih nyaman curhat kepada AI daripada manusia",
+        "link": "https://www.antaranews.com/berita/5870747/5-alasan-orang-lebih-nyaman-curhat-kepada-ai-daripada-manusia",
+        "source": "Tekno - ANTARA News",
+        "summary": "Kehadiran kecerdasan buatan atau artificial intelligence (AI) kini tidak hanya dimanfaatkan untuk membantu pekerjaan, ...",
+        "published": "2026-11-22T06:48:29.000Z"
+      },
+      {
+        "title": "Green line di layar HP? Coba 5 cara mengatasinya sebelum servis",
+        "link": "https://www.antaranews.com/berita/5870731/green-line-di-layar-hp-coba-5-cara-mengatasinya-sebelum-servis",
+        "source": "Tekno - ANTARA News",
+        "summary": "Munculnya garis vertikal atau horizontal secara tiba-tiba pada layar ponsel yang sering dikenal sebagai green line atau ...",
+        "published": "2026-11-22T06:37:29.000Z"
+      },
+      {
+        "title": "Dari Vice City hingga Mount Kalaga, ini 10 lokasi di GTA VI",
+        "link": "https://www.antaranews.com/berita/5870491/dari-vice-city-hingga-mount-kalaga-ini-10-lokasi-di-gta-vi",
+        "source": "Tekno - ANTARA News",
+        "summary": "Grand Theft Auto VI (GTA VI) resmi dirilis pada 19 November 2026. Gim terbaru besutan Rockstar Games ini membawa pemain ...",
+        "published": "2026-11-22T02:29:19.000Z"
+      },
+      {
         "title": "Layar laptop hitam total tapi masih menyala? Ini 4 cara mengatasinya",
         "link": "https://www.antaranews.com/berita/5870107/layar-laptop-hitam-total-tapi-masih-menyala-ini-4-cara-mengatasinya",
         "source": "Tekno - ANTARA News",
@@ -266,27 +216,6 @@
         "source": "Tekno - ANTARA News",
         "summary": "Amazfit kembali memperluas lini jam tangan pintarnya di pasar Indonesia melalui kehadiran Amazfit T-Rex Dual Solar. ...",
         "published": "2026-11-15T03:13:51.000Z"
-      },
-      {
-        "title": "Cara mengetahui HP disadap, kenali 5 ciri dan cara mengatasinya",
-        "link": "https://www.antaranews.com/berita/5855075/cara-mengetahui-hp-disadap-kenali-5-ciri-dan-cara-mengatasinya",
-        "source": "Tekno - ANTARA News",
-        "summary": "Penggunaan ponsel pintar yang semakin masif di era ini membuat berbagai aktivitas pribadi tersimpan di dalam perangkat, ...",
-        "published": "2026-11-15T02:49:11.000Z"
-      },
-      {
-        "title": "HP terendam air, apa yang sebaiknya dilakukan dan dihindari?",
-        "link": "https://www.antaranews.com/berita/5854111/hp-terendam-air-apa-yang-sebaiknya-dilakukan-dan-dihindari",
-        "source": "Tekno - ANTARA News",
-        "summary": "Ponsel yang tidak sengaja terjatuh ke dalam air menjadi salah satu kejadian yang cukup membuat panik. Situasi ini bisa ...",
-        "published": "2026-11-14T09:26:28.000Z"
-      },
-      {
-        "title": "Harga Ray-Ban Meta dan Oakley Meta di Indonesia, mulai Rp8,7 Juta",
-        "link": "https://www.antaranews.com/berita/5853931/harga-ray-ban-meta-dan-oakley-meta-di-indonesia-mulai-rp87-juta",
-        "source": "Tekno - ANTARA News",
-        "summary": "Kacamata pintar atau smart glasses semakin berkembang dengan menggabungkan fungsi kacamata konvensional dan teknologi ...",
-        "published": "2026-11-14T07:57:40.000Z"
       }
     ],
     "hiburan": [
